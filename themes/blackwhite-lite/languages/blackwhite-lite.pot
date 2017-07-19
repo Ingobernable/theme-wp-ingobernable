@@ -1,0 +1,349 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BlackWhite Lite v1.0.3\n"
+"POT-Creation-Date: 2017-04-14 17:14+0700\n"
+"PO-Revision-Date: 2017-04-14 17:15+0700\n"
+"Last-Translator: \n"
+"Language-Team: ThemeCountry Team <dev@themecountry.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en\n"
+
+#: comments.php:37
+#, php-format
+msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
+msgstr ""
+
+#: comments.php:52 comments.php:72
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:53 comments.php:73
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:54 comments.php:74
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:84
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:94
+msgid "Name"
+msgstr ""
+
+#: comments.php:96
+msgid "Email"
+msgstr ""
+
+#: comments.php:98
+msgid "Website"
+msgstr ""
+
+#: comments.php:100
+msgid "Your Comment Here ..."
+msgstr ""
+
+#: functions.php:54
+msgid "Primary"
+msgstr ""
+
+#: functions.php:55
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:116
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:118 functions.php:128 functions.php:156 functions.php:165
+#: functions.php:174 functions.php:183
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:126
+msgid "Header Banner"
+msgstr ""
+
+#: functions.php:135
+msgid "Feature Homepage"
+msgstr ""
+
+#: functions.php:137 functions.php:146
+msgid "Add widgets here to appear on magazine template."
+msgstr ""
+
+#: functions.php:144
+msgid "Magazine Homepage"
+msgstr ""
+
+#: functions.php:154
+msgid "Footer 1"
+msgstr ""
+
+#: functions.php:163
+msgid "Footer 2"
+msgstr ""
+
+#: functions.php:172
+msgid "Footer 3"
+msgstr ""
+
+#: functions.php:181
+msgid "Footer 4"
+msgstr ""
+
+#: inc/customizer/customizer.php:32
+msgid "Theme Options"
+msgstr ""
+
+#: inc/customizer/customizer.php:60
+msgid "Theme Links"
+msgstr ""
+
+#: inc/customizer/customizer.php:61
+msgid "https://themecountry.com/themes/blackwhite/"
+msgstr ""
+
+#: inc/customizer/customizer.php:62
+msgid "Theme Page"
+msgstr ""
+
+#: inc/customizer/customizer.php:63
+msgid "https://themecountry.com/docs/blackwhite-documentation/"
+msgstr ""
+
+#: inc/customizer/customizer.php:64
+msgid "Theme Documentation"
+msgstr ""
+
+#: inc/customizer/customizer.php:66
+msgid "Rate this theme"
+msgstr ""
+
+#: inc/customizer/functions/custom-controls.php:97
+#, php-format
+msgid ""
+"Purchase the Pro Version of %s to get additional features and advanced "
+"customization options."
+msgstr ""
+
+#: inc/customizer/functions/custom-controls.php:102
+#, php-format
+msgid "Learn more about %s Pro"
+msgstr ""
+
+#: inc/customizer/pro/class-customize.php:76
+msgid "BlackWhite Pro"
+msgstr ""
+
+#: inc/customizer/pro/class-customize.php:77
+msgid "Go Pro"
+msgstr ""
+
+#: inc/customizer/sections/customizer-general.php:12
+msgid "General Settings"
+msgstr ""
+
+#: inc/customizer/sections/customizer-general.php:27
+msgid "Theme Layout"
+msgstr ""
+
+#: inc/customizer/sections/customizer-general.php:33
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/customizer/sections/customizer-general.php:34
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/customizer/sections/customizer-general.php:50
+msgid "Sticky Header"
+msgstr ""
+
+#: inc/customizer/sections/customizer-general.php:66
+#: inc/customizer/sections/customizer-general.php:100
+msgid "Enable"
+msgstr ""
+
+#: inc/customizer/sections/customizer-general.php:84
+msgid "Back to Top"
+msgstr ""
+
+#: inc/customizer/sections/customizer-home-archives.php:14
+msgid "Archive Settings"
+msgstr ""
+
+#: inc/customizer/sections/customizer-home-archives.php:29
+msgid "Post length on home & archives"
+msgstr ""
+
+#: inc/customizer/sections/customizer-home-archives.php:35
+msgid "Show full posts"
+msgstr ""
+
+#: inc/customizer/sections/customizer-home-archives.php:36
+msgid "Show post excerpts"
+msgstr ""
+
+#: inc/customizer/sections/customizer-home-archives.php:51
+msgid "Excerpt Length"
+msgstr ""
+
+#: inc/customizer/sections/customizer-home-archives.php:70
+msgid "Excerpt More Text"
+msgstr ""
+
+#: inc/customizer/sections/customizer-home-archives.php:88
+msgid "Pagination Type"
+msgstr ""
+
+#: inc/customizer/sections/customizer-home-archives.php:94
+msgid "Default (Older Posts/Newer Posts)"
+msgstr ""
+
+#: inc/customizer/sections/customizer-home-archives.php:95
+msgid "Numberal (1 2 3 ..)"
+msgstr ""
+
+#: inc/customizer/sections/customizer-single.php:19
+msgid "Single Post Settings"
+msgstr ""
+
+#: inc/customizer/sections/customizer-single.php:34
+msgid "Related posts"
+msgstr ""
+
+#: inc/customizer/sections/customizer-single.php:40
+msgid "Categories"
+msgstr ""
+
+#: inc/customizer/sections/customizer-single.php:41
+msgid "Tags"
+msgstr ""
+
+#: inc/extras.php:118
+msgid "You may also enjoy..."
+msgstr ""
+
+#: inc/template-tags.php:91 inc/template-tags.php:198
+#: template-parts/content-page.php:33
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: inc/template-tags.php:131
+msgid "By "
+msgstr ""
+
+#: inc/template-tags.php:142 inc/template-tags.php:175
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:189
+#, php-format
+msgid "0 <span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: inc/template-tags.php:273
+#, php-format
+msgid ""
+"<a href=\"%s\" rel=\"designer\">BlackWhite Lite</a> powered by <a href="
+"\"http://wordpress.org/\">WordPress</a>"
+msgstr ""
+
+#: inc/template-tags.php:301 inc/template-tags.php:353
+msgid "<i class=\"fa fa-angle-left\"></i>"
+msgstr ""
+
+#: inc/template-tags.php:302 inc/template-tags.php:354
+msgid "<i class=\"fa fa-angle-right\"></i>"
+msgstr ""
+
+#: inc/template-tags.php:303 inc/template-tags.php:355
+msgid "Page"
+msgstr ""
+
+#: inc/template-tags.php:311 inc/template-tags.php:362
+msgid "Posts navigation"
+msgstr ""
+
+#: inc/template-tags.php:318
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: inc/template-tags.php:324
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: inc/template-tags.php:366
+msgid "<span class=\"meta-nav\"></span> Previous"
+msgstr ""
+
+#: inc/template-tags.php:370
+msgid "Next <span class=\"meta-nav\"></span>"
+msgstr ""
+
+#: inc/template-tags.php:395
+msgid "Post navigation"
+msgstr ""
+
+#: inc/widget/magazine-posts-featured.php:19
+msgid "TC: Featured Posts"
+msgstr ""
+
+#: inc/widget/magazine-posts-featured.php:22
+msgid "Use this widget to custom display style in featured homepage."
+msgstr ""
+
+#: inc/widget/magazine-posts-featured.php:468
+#: inc/widget/magazine-posts-lists.php:493
+#, php-format
+msgid "View all posts from category %s"
+msgstr ""
+
+#: inc/widget/magazine-posts-featured.php:536
+#: inc/widget/magazine-posts-lists.php:561
+msgid "All Categories"
+msgstr ""
+
+#: inc/widget/magazine-posts-lists.php:21
+msgid "TC: Magazine Layout"
+msgstr ""
+
+#: inc/widget/magazine-posts-lists.php:24
+msgid "Add this widgets to appear this style on magazine template."
+msgstr ""
+
+#: inc/widget/widget-function.php:36
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: search.php:21
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: template-parts/content-grid.php:41 template-parts/content-page.php:22
+#: template-parts/content-search.php:43 template-parts/content-single.php:36
+#: template-parts/content.php:42
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-none.php:22
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-single.php:31
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""

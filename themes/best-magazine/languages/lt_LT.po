@@ -1,0 +1,298 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: magazine\n"
+"POT-Creation-Date: 2014-07-07 11:58+0400\n"
+"PO-Revision-Date: 2014-07-07 12:04+0400\n"
+"Last-Translator: dianna <dianna.arakelyan@gmail.com>\n"
+"Language-Team: magazine\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.3\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: magazine;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: C:\\wamp\\www\\wordpress_for_theme\\wp-content\\themes"
+"\\magazin\n"
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/404.php:26
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-search.php:46
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/search.php:28
+msgid "Type here"
+msgstr "įrašykite čia"
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/404.php:27
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-search.php:47
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/search.php:22
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/search.php:29
+msgid "Search"
+msgstr "paieška "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/comments.php:22
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/comments.php:33
+msgid "&#8249; Older comments"
+msgstr "&#8249; Senesni komentaras "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/comments.php:23
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/comments.php:34
+msgid "Newer comments &#8250;"
+msgstr "Naujesni komentaras  &#8250;"
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/comments.php:45
+msgid "Pings&#47;Trackbacks"
+msgstr "Ping&#47;Trackback"
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/comments.php:48
+#, php-format
+msgid "%1$d %2$s for \"%3$s\""
+msgstr "%1$d %2$s už  \"%3$s\""
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/comments.php:62
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-contact.php:44
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-contact.php:132
+msgid "Name"
+msgstr "pavadinimas "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/comments.php:63
+msgid "E-mail"
+msgstr "El-paštas "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/comments.php:64
+msgid "Website"
+msgstr "Interneto svetainė "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/comments.php:68
+msgid "Comment"
+msgstr "komentaras "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/functions.php:37
+#, php-format
+msgid ""
+"<span class=\"sep date\"></span><a href=\"%1$s\" title=\"%2$s\" rel="
+"\"bookmark\"><time class=\"entry-date\" datetime=\"%3$s\">%4$s</time></a>"
+msgstr ""
+"<span class=\"sep date\"></span><a href=\"%1$s\" title=\"%2$s\" rel="
+"\"bookmark\"><time class=\"entry-date\" datetime=\"%3$s\">%4$s</time></a>"
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/functions.php:46
+#, php-format
+msgid ""
+"<span class=\"sep date\"></span><a href=\"%1$s\" title=\"%2$s\" rel="
+"\"bookmark\"><time class=\"entry-date\" datetime=\"%3$s\">%4$s</time></"
+"a><span class=\"by-author\"> <span class=\"sep author\"></span> <span class="
+"\"author vcard\"><a class=\"url fn n\" href=\"%5$s\" title=\"%6$s\" rel="
+"\"author\">%7$s</a></span></span>"
+msgstr ""
+"<span class=\"sep date\"></span><a href=\"%1$s\" title=\"%2$s\" rel="
+"\"bookmark\"><time class=\"entry-date\" datetime=\"%3$s\">%4$s</time></"
+"a><span class=\"by-author\"> <span class=\"sep author\"></span> <span class="
+"\"author vcard\"><a class=\"url fn n\" href=\"%5$s\" title=\"%6$s\" rel="
+"\"author\">%7$s</a></span></span>"
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/functions.php:52
+#, php-format
+msgid "View all posts by %s"
+msgstr "Žiūrėti visus pranešimus %s"
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/header.php:68
+msgid "Our facebook page"
+msgstr "Mūsų facebook puslapis "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/header.php:69
+msgid "Our twitter page"
+msgstr "Mūsų Twitter puslapis "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/header.php:70
+msgid "Our Google plus page"
+msgstr "Mūsų Google plius puslapį "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/header.php:71
+msgid "Our RSS"
+msgstr "Mūsų RSS "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-blog.php:101
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/front_end/front_end_functions.php:433
+msgid "More"
+msgstr "daugiau"
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-contact.php:50
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-contact.php:140
+msgid "Your Email"
+msgstr "Jūsų elektroninis paštas "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-contact.php:62
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-contact.php:156
+msgid "Comments"
+msgstr "Komentarai "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-contact.php:78
+msgid "The name field is required."
+msgstr "Asmenvardžio lauką. "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-contact.php:83
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-contact.php:174
+msgid "Incorrect Captcha code. Please try again."
+msgstr "Neteisingas Captcha kodas. Prašome bandyti dar kartą."
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-contact.php:88
+msgid "Error submitting message."
+msgstr "Klaida pateikiant pranešimą. "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-contact.php:93
+msgid "Your message was submitted successfully"
+msgstr "Jūsų pranešimas sėkmingai išsiųsta"
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-contact.php:148
+msgid "Message title"
+msgstr "Pranešimas pavadinimas "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-contact.php:173
+msgid "Reset"
+msgstr "Atstatyti"
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-contact.php:174
+msgid "Send"
+msgstr "siųsti "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-contact.php:174
+msgid "The Name field is required."
+msgstr "Vardas laukelis būtinas. "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-contact.php:174
+msgid "The Email field is required."
+msgstr "Parašyk laukelis būtinas."
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-contact.php:174
+msgid "Please provide a valid email address."
+msgstr "Prašome nurodyti galiojantį e-pašto adresą. "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-contact.php:174
+msgid "The Message field is required."
+msgstr "Pranešimas laukas privalomas. "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-login.php:41
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-login.php:47
+msgid "Log in"
+msgstr "Prisijungti "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-login.php:44
+msgid "Password"
+msgstr "slaptažodis"
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-login.php:61
+msgid "Log Out"
+msgstr "automatiškai išsijungti "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-sitemap.php:44
+msgid "Static Pages:"
+msgstr "Statiniai Puslapiai: "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-sitemap.php:51
+msgid "All Categories:"
+msgstr "Visos kategorijos: "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-sitemap.php:59
+msgid "Tags:"
+msgstr "Tags: "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-sitemap.php:72
+msgid "Archives:"
+msgstr "Archyvas: "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-sitemap.php:80
+msgid "Authors:"
+msgstr "autoriai: "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-sitemap.php:87
+msgid "Blog Posts:"
+msgstr "Blog'as Žinutės: "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/searchform.php:2
+msgid "Search..."
+msgstr "Paieška ..."
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/single.php:58
+msgid "Page"
+msgstr "puslapis"
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/admin/color_control.php:588
+msgid "Schemes"
+msgstr "schemos "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/admin/install_sampl_date.php:1420
+msgid "Home"
+msgstr "namai"
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/admin/includes/meta/seo_meta.php:16
+msgid "SEO Web Business"
+msgstr "SEO Web Verslas"
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/admin/shortcode/tinymce/config.php:15
+msgid "Insert Button Shortcode"
+msgstr ""
+"įrašykite čia paieška Senesni komentaras Naujesni komentaras ping Trackback "
+"už pavadinimas El-paštas Interneto svetainė komentaras Žiūrėti visus "
+"pranešimus Mūsų facebook puslapis Mūsų Twitter puslapis Mūsų Google plius "
+"puslapį Mūsų RSS daugiau Jūsų elektroninis paštas KomentaraiAsmenvardžio "
+"lauką. Neteisingas Captcha kodas. Prašome bandyti dar kartą. Klaida "
+"pateikiant pranešimą. Jūsų pranešimas sėkmingai išsiųsta Pranešimas "
+"pavadinimas Atstatyti siųstiVardas laukelis būtinas.Parašyk laukelis "
+"būtinas. Prašome nurodyti galiojantį e-pašto adresą.Pranešimas laukas "
+"privalomas. Prisijungti slaptažodis automatiškai išsijungti Statiniai "
+"Puslapiai: Visos kategorijos: Tags: Archyvas: autoriai: Blog'as Žinutės: "
+"Paieška ... puslapis schemos namai SEO Web Verslas Mygtuką Įterpti SHORTCODE "
+"Įterpti nuorodą SHORTCODE Įdėkite Info Box SHORTCODE Įdėkite Citata Box "
+"SHORTCODE Įdėkite kontaktinę formą SHORTCODE Įdėkite Kortelės Creator "
+"SHORTCODE Įdėkite Susijusios Žinutės Trumpa Įterpti stulpelius maketo "
+"SHORTCODE į kairę teisė atsitiktinis populiarus naujas"
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/admin/shortcode/tinymce/config.php:26
+msgid "Insert Link Shortcode"
+msgstr "Įterpti nuorodą SHORTCODE"
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/admin/shortcode/tinymce/config.php:40
+msgid "Insert Info Box Shortcode"
+msgstr "Įdėkite Info Box SHORTCODE"
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/admin/shortcode/tinymce/config.php:50
+msgid "Insert Quote Box Shortcode"
+msgstr "Įdėkite Citata Box SHORTCODE"
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/admin/shortcode/tinymce/config.php:61
+msgid "Insert Contact Form Shortcode"
+msgstr "Įdėkite kontaktinę formą SHORTCODE"
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/admin/shortcode/tinymce/config.php:71
+msgid "Insert Tabs Creator Shortcode"
+msgstr "Įdėkite Kortelės Creator SHORTCODE"
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/admin/shortcode/tinymce/config.php:80
+msgid "Insert Related Posts Shortcode"
+msgstr "Įdėkite Susijusios Žinutės Trumpa"
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/admin/shortcode/tinymce/config.php:89
+msgid "Insert Columns Layout Shortcode"
+msgstr "Įterpti stulpelius maketo SHORTCODE"
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/front_end/front_end_functions.php:330
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/front_end/front_end_functions.php:605
+msgid "Left"
+msgstr "į kairę"
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/front_end/front_end_functions.php:331
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/front_end/front_end_functions.php:606
+msgid "Right"
+msgstr "teisė"
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/front_end/front_end_functions.php:646
+msgid "Random"
+msgstr "atsitiktinis"
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/front_end/front_end_functions.php:653
+msgid "Popular"
+msgstr "populiarus"
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/front_end/front_end_functions.php:660
+msgid "Recent"
+msgstr "naujas"

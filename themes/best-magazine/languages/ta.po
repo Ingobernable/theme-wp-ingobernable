@@ -1,0 +1,283 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: magazine\n"
+"POT-Creation-Date: 2014-07-07 14:34+0400\n"
+"PO-Revision-Date: 2014-07-07 14:44+0400\n"
+"Last-Translator: dianna <dianna.arakelyan@gmail.com>\n"
+"Language-Team: magazine\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.3\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: magazine;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: C:\\wamp\\www\\wordpress_for_theme\\wp-content\\themes"
+"\\magazin\n"
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/404.php:26
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-search.php:46
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/search.php:28
+msgid "Type here"
+msgstr "இங்கே தட்டச்சு "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/404.php:27
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-search.php:47
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/search.php:22
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/search.php:29
+msgid "Search"
+msgstr "தேடுதல் "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/comments.php:22
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/comments.php:33
+msgid "&#8249; Older comments"
+msgstr "&#8249; பழைய கருத்து "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/comments.php:23
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/comments.php:34
+msgid "Newer comments &#8250;"
+msgstr "புதிய கருத்து  &#8250;"
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/comments.php:45
+msgid "Pings&#47;Trackbacks"
+msgstr "பிங் &#47;கவிதை பட்டறை "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/comments.php:48
+#, php-format
+msgid "%1$d %2$s for \"%3$s\""
+msgstr "%1$d %2$s ஐந்து  \"%3$s\""
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/comments.php:62
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-contact.php:44
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-contact.php:132
+msgid "Name"
+msgstr "பெயர் "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/comments.php:63
+msgid "E-mail"
+msgstr "மின்னஞ்சல் "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/comments.php:64
+msgid "Website"
+msgstr "இணையத்தளம் "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/comments.php:68
+msgid "Comment"
+msgstr "கருத்து "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/functions.php:37
+#, php-format
+msgid ""
+"<span class=\"sep date\"></span><a href=\"%1$s\" title=\"%2$s\" rel="
+"\"bookmark\"><time class=\"entry-date\" datetime=\"%3$s\">%4$s</time></a>"
+msgstr ""
+"<span class=\"sep date\"></span><a href=\"%1$s\" title=\"%2$s\" rel="
+"\"bookmark\"><time class=\"entry-date\" datetime=\"%3$s\">%4$s</time></a>"
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/functions.php:46
+#, php-format
+msgid ""
+"<span class=\"sep date\"></span><a href=\"%1$s\" title=\"%2$s\" rel="
+"\"bookmark\"><time class=\"entry-date\" datetime=\"%3$s\">%4$s</time></"
+"a><span class=\"by-author\"> <span class=\"sep author\"></span> <span class="
+"\"author vcard\"><a class=\"url fn n\" href=\"%5$s\" title=\"%6$s\" rel="
+"\"author\">%7$s</a></span></span>"
+msgstr ""
+"<span class=\"sep date\"></span><a href=\"%1$s\" title=\"%2$s\" rel="
+"\"bookmark\"><time class=\"entry-date\" datetime=\"%3$s\">%4$s</time></"
+"a><span class=\"by-author\"> <span class=\"sep author\"></span> <span class="
+"\"author vcard\"><a class=\"url fn n\" href=\"%5$s\" title=\"%6$s\" rel="
+"\"author\">%7$s</a></span></span>"
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/functions.php:52
+#, php-format
+msgid "View all posts by %s"
+msgstr "எல்லா காண்க %s"
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/header.php:68
+msgid "Our facebook page"
+msgstr "எங்கள் facebook பக்கம்"
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/header.php:69
+msgid "Our twitter page"
+msgstr "எங்கள் ட்விட்டர் பக்கம் "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/header.php:70
+msgid "Our Google plus page"
+msgstr "கூகிள் பிளஸ் பக்கம் "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/header.php:71
+msgid "Our RSS"
+msgstr "எங்கள் ஜூன் "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-blog.php:101
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/front_end/front_end_functions.php:433
+msgid "More"
+msgstr "அதிக "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-contact.php:50
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-contact.php:140
+msgid "Your Email"
+msgstr "உங்கள் மின்னஞ்சல் "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-contact.php:62
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-contact.php:156
+msgid "Comments"
+msgstr "Comments"
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-contact.php:78
+msgid "The name field is required."
+msgstr "பெயர் துறையில் தேவைப்படுகிறது. "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-contact.php:83
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-contact.php:174
+msgid "Incorrect Captcha code. Please try again."
+msgstr "தவறான அப்பாவி குறியீடு. மீண்டும் முயற்சிக்கவும். "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-contact.php:88
+msgid "Error submitting message."
+msgstr "செய்தி சமர்ப்பிப்பதில் பிழை. "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-contact.php:93
+msgid "Your message was submitted successfully"
+msgstr "உங்கள் செய்தி வெற்றிகரமாக சமர்ப்பிக்கப்பட்டது"
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-contact.php:148
+msgid "Message title"
+msgstr "செய்தி தலைப்பு "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-contact.php:173
+msgid "Reset"
+msgstr "மீட்டமை "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-contact.php:174
+msgid "Send"
+msgstr "அனுப்பு "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-contact.php:174
+msgid "The Name field is required."
+msgstr "பெயர் துறையில் தேவைப்படுகிறது. "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-contact.php:174
+msgid "The Email field is required."
+msgstr "மின்னஞ்சல் துறையில் தேவைப்படுகிறது. "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-contact.php:174
+msgid "Please provide a valid email address."
+msgstr "ஒரு சரியான மின்னஞ்சல் முகவரியை அளியுங்கள். "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-contact.php:174
+msgid "The Message field is required."
+msgstr "செய்தி துறையில் தேவைப்படுகிறது. "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-login.php:41
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-login.php:47
+msgid "Log in"
+msgstr "பதிவு "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-login.php:44
+msgid "Password"
+msgstr "கடவுச்சொல் "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-login.php:61
+msgid "Log Out"
+msgstr "அவுட் புகுபதிகை "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-sitemap.php:44
+msgid "Static Pages:"
+msgstr "நிலையான பக்கங்கள்: "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-sitemap.php:51
+msgid "All Categories:"
+msgstr "அனைத்து வகைகள்: "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-sitemap.php:59
+msgid "Tags:"
+msgstr "குறிச்சொற்கள்: "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-sitemap.php:72
+msgid "Archives:"
+msgstr "சென்னை: "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-sitemap.php:80
+msgid "Authors:"
+msgstr "ஆசிரியர்கள்: "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-sitemap.php:87
+msgid "Blog Posts:"
+msgstr "இடுகைகள்: "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/searchform.php:2
+msgid "Search..."
+msgstr "தேடல் ... "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/single.php:58
+msgid "Page"
+msgstr "பக்கம் "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/admin/color_control.php:588
+msgid "Schemes"
+msgstr "திட்டங்கள் "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/admin/install_sampl_date.php:1420
+msgid "Home"
+msgstr "முகப்பு "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/admin/includes/meta/seo_meta.php:16
+msgid "SEO Web Business"
+msgstr "எஸ்சிஓ வலை வர்த்தக "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/admin/shortcode/tinymce/config.php:15
+msgid "Insert Button Shortcode"
+msgstr "பட்டன் சுருக்குக்குறியீடு சேர்க்க "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/admin/shortcode/tinymce/config.php:26
+msgid "Insert Link Shortcode"
+msgstr "இணைப்பு சுருக்குக்குறியீடு சேர்க்க "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/admin/shortcode/tinymce/config.php:40
+msgid "Insert Info Box Shortcode"
+msgstr "தகவல் பெட்டி சுருக்குக்குறியீடு சேர்க்க "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/admin/shortcode/tinymce/config.php:50
+msgid "Insert Quote Box Shortcode"
+msgstr "ஆனால் பெட்டி சுருக்குக்குறியீடு சேர்க்க "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/admin/shortcode/tinymce/config.php:61
+msgid "Insert Contact Form Shortcode"
+msgstr "தொடர்பு படிவம் சுருக்குக்குறியீடு சேர்க்க "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/admin/shortcode/tinymce/config.php:71
+msgid "Insert Tabs Creator Shortcode"
+msgstr "தாவல்கள் படைப்பாளர் சுருக்குக்குறியீடு சேர்க்க "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/admin/shortcode/tinymce/config.php:80
+msgid "Insert Related Posts Shortcode"
+msgstr "தொடர்புடைய இடுகைகள் சுருக்குக்குறியீடு சேர்க்க "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/admin/shortcode/tinymce/config.php:89
+msgid "Insert Columns Layout Shortcode"
+msgstr "பத்திகள் லேஅவுட் சுருக்குக்குறியீடு சேர்க்க "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/front_end/front_end_functions.php:330
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/front_end/front_end_functions.php:605
+msgid "Left"
+msgstr "இடது "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/front_end/front_end_functions.php:331
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/front_end/front_end_functions.php:606
+msgid "Right"
+msgstr "சரியான "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/front_end/front_end_functions.php:646
+msgid "Random"
+msgstr "ரேண்டம்"
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/front_end/front_end_functions.php:653
+msgid "Popular"
+msgstr "புகழ்பெற்ற "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/front_end/front_end_functions.php:660
+msgid "Recent"
+msgstr "சமீபத்திய"

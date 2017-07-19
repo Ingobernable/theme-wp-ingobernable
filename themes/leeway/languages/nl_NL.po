@@ -1,0 +1,596 @@
+# Translation of Leeway in Dutch
+# This file is distributed under the same license as the Leeway package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Leeway\n"
+"Report-Msgid-Bugs-To: https://themezee.com/\n"
+"POT-Creation-Date: 2015-08-29 14:29+0100\n"
+"PO-Revision-Date: 2015-08-29 14:53+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.5.7\n"
+
+#: 404.php:9
+#, fuzzy
+msgid "404: Page not found"
+msgstr "404 Fout: niet gevonden"
+
+#: 404.php:12
+msgid ""
+"It looks like nothing was found at this location. Maybe try a search or one "
+"of the links below?"
+msgstr ""
+
+#: comments.php:10
+msgid "Enter password to view comments."
+msgstr "Voer uw wachtwoord in om de reacties te zien."
+
+#: comments.php:20 inc/template-tags.php:95
+#: inc/widgets/widget-category-posts-boxed.php:310
+#: inc/widgets/widget-category-posts-columns.php:238
+#: inc/widgets/widget-category-posts-grid.php:267
+msgid "One comment"
+msgstr "Een reactie"
+
+#: comments.php:20 inc/template-tags.php:95
+#: inc/widgets/widget-category-posts-boxed.php:310
+#: inc/widgets/widget-category-posts-columns.php:238
+#: inc/widgets/widget-category-posts-grid.php:267
+#, fuzzy, php-format
+msgid "% comments"
+msgstr "% opmerkingen"
+
+#: content-excerpt.php:12 content-search.php:8 content.php:11
+#: inc/widgets/widget-category-posts-boxed.php:166
+#: inc/widgets/widget-category-posts-boxed.php:251
+#: inc/widgets/widget-category-posts-columns.php:180
+msgid "Read more"
+msgstr "Lees meer"
+
+#: featured-content-slider.php:14
+msgid ""
+"There is no featured content to be displayed in the slider. To set up the "
+"slider, go to Appearance &#8594; Customize &#8594; Theme Options, and add a "
+"featured tag in the Post Slider section. The slideshow displays all your "
+"posts which are tagged with that keyword."
+msgstr ""
+
+#: functions.php:118
+msgid "Main Navigation"
+msgstr "Hoofdnavigatie"
+
+#: functions.php:119
+msgid "Top Navigation"
+msgstr ""
+
+#: functions.php:120
+msgid "Footer Navigation"
+msgstr "Voetnavigatie"
+
+#: functions.php:123
+msgid "Social Icons"
+msgstr "Social media iconen"
+
+#: functions.php:159 sidebar.php:14
+msgid "Sidebar"
+msgstr "Zijbalk"
+
+#: functions.php:161
+msgid ""
+"Appears on posts and pages except Magazine Homepage and Fullwidth template."
+msgstr ""
+
+#: functions.php:168
+msgid "Magazine Homepage"
+msgstr ""
+
+#: functions.php:170
+msgid ""
+"Appears on Magazine Homepage template only. You can use the Category Posts "
+"widgets here."
+msgstr ""
+
+#: functions.php:244
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: functions.php:245 functions.php:265
+msgid "(Edit)"
+msgstr "(Bewerken)"
+
+#: functions.php:260
+msgid "Your comment is awaiting moderation."
+msgstr "Je reactie wacht op moderatie."
+
+#: functions.php:264
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: search.php:13
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Zoekresultaten voor: %s"
+
+#: search.php:37
+msgid "No matches"
+msgstr ""
+
+#: search.php:41
+#, fuzzy
+msgid ""
+"Please try again, or use the navigation menus to find what you search for."
+msgstr ""
+"Geen resultaten gevonden. Probeer het opnieuw of gebruik het menu om te "
+"vinden waar je naar op zoek bent."
+
+#: searchform.php:4
+#, fuzzy
+msgctxt "label"
+msgid "Search for:"
+msgstr "Zoeken naar:"
+
+#: searchform.php:5
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr ""
+
+#: sidebar.php:16
+msgid ""
+"Please go to Appearance &#8594; Widgets and add some widgets to your sidebar."
+msgstr ""
+
+#: template-magazine.php:39
+msgid ""
+"Please go to Appearance &#8594; Widgets and add at least one widget to the "
+"\"Magazine Homepage\" widget area. You can use the Category Posts widgets to "
+"set up the theme like the demo website."
+msgstr ""
+
+#: inc/featured-content.php:368
+msgid "Tag name"
+msgstr ""
+
+#: inc/featured-content.php:374
+msgid "Hide tag from displaying in post meta and tag clouds."
+msgstr ""
+
+#: inc/featured-content.php:381
+msgid "Display featured posts in latest blog post listing."
+msgstr ""
+
+#: inc/featured-content.php:388
+msgid "Number of Posts"
+msgstr ""
+
+#: inc/template-tags.php:83
+#, php-format
+msgid "View all posts by %s"
+msgstr "Toon alle berichten van %s"
+
+#: inc/template-tags.php:95 inc/widgets/widget-category-posts-boxed.php:310
+#: inc/widgets/widget-category-posts-columns.php:238
+#: inc/widgets/widget-category-posts-grid.php:267
+msgid "Leave a comment"
+msgstr "Laat een reactie achter"
+
+#: inc/template-tags.php:151
+#, fuzzy, php-format
+msgid "Category: %s"
+msgstr "Categorie:"
+
+#: inc/template-tags.php:164
+#, php-format
+msgid "Tags: %1$s"
+msgstr ""
+
+#: inc/template-tags.php:216
+#, php-format
+msgid "Powered by %1$s and %2$s."
+msgstr "Ondersteund door %1$s en %2$s."
+
+#: inc/template-tags.php:250
+#, fuzzy
+msgid ""
+"Please go to Appearance &#8594; Menus and create a new custom menu with "
+"custom links to all your social networks. Then click on \"Manage Locations\" "
+"tab and assign your created menu to the \"Social Icons\" location."
+msgstr ""
+"Ga naar WP-Admin -> Weergave -> Menu's en maak een nieuw menu aan met links "
+"naar al je social media netwerken.\n"
+"Klik daarna op de \"Locaties beheren\" tab en wijs het menu toe aan de "
+"\"Social media iconen\" themalocatie."
+
+#: inc/theme-info.php:18 inc/theme-info.php:38
+#, fuzzy, php-format
+msgid "Welcome to %1$s %2$s"
+msgstr "Welkom bij %1s %2s"
+
+#: inc/theme-info.php:19
+msgid "Theme Info"
+msgstr "Thema info"
+
+#: inc/theme-info.php:44
+msgid "Important Links:"
+msgstr "Belangrijke links:"
+
+#: inc/theme-info.php:45
+#, fuzzy
+msgid "Theme Page"
+msgstr "Thema informatie pagina"
+
+#: inc/theme-info.php:46
+msgid "Changelog"
+msgstr "Verandering log"
+
+#: inc/theme-info.php:47
+msgid "Theme Demo"
+msgstr "Thema demo"
+
+#: inc/theme-info.php:48 inc/theme-info.php:63
+msgid "Theme Documentation"
+msgstr "Thema documentatie"
+
+#: inc/theme-info.php:49
+msgid "Rate this theme"
+msgstr ""
+
+#: inc/theme-info.php:60
+#, php-format
+msgid "Getting Started with %s"
+msgstr "Aan de slag met %s"
+
+#: inc/theme-info.php:66
+#, fuzzy
+msgid ""
+"You need help to setup and configure this theme? We got you covered with an "
+"extensive theme documentation on our website."
+msgstr ""
+"Heb je hulp nodig bij het configureren van dit thema? We hebben uitgebreide "
+"thema documentatie op onze website."
+
+#: inc/theme-info.php:70
+#, fuzzy, php-format
+msgid "View %s Documentation"
+msgstr "Thema documentatie"
+
+#: inc/theme-info.php:76 inc/customizer/customizer.php:28
+msgid "Theme Options"
+msgstr "Thema opties"
+
+#: inc/theme-info.php:79
+#, php-format
+msgid ""
+"%s makes use of the Customizer for all theme settings. Click on \"Customize "
+"Theme\" to open the Customizer now."
+msgstr ""
+
+#: inc/theme-info.php:82
+msgid "Customize Theme"
+msgstr "Thema aanpassen"
+
+#: inc/theme-info.php:87 inc/customizer/sections/customizer-upgrade.php:17
+msgid "Pro Version"
+msgstr ""
+
+#: inc/theme-info.php:90
+msgid ""
+"You need more features? Purchase the Pro Version to get additional features "
+"and advanced customization options."
+msgstr ""
+
+#: inc/theme-info.php:94 inc/customizer/sections/customizer-upgrade.php:65
+#, php-format
+msgid "Learn more about %s Pro"
+msgstr ""
+
+#: inc/theme-info.php:115
+#, php-format
+msgid "%1$s is proudly brought to you by %2$s. If you like this theme, %3$s :)"
+msgstr ""
+
+#: inc/theme-info.php:118
+msgid "rate it"
+msgstr ""
+
+#: inc/customizer/customizer.php:49
+msgid "Display Tagline below site title."
+msgstr "Toon tag regel onder de site titel."
+
+#: inc/customizer/sections/customizer-general.php:14
+msgid "General Settings"
+msgstr "Algemene instellingen"
+
+#: inc/customizer/sections/customizer-general.php:29
+msgid "Theme Layout"
+msgstr ""
+
+#: inc/customizer/sections/customizer-general.php:35
+msgid "Left Sidebar"
+msgstr "Zijbalk links"
+
+#: inc/customizer/sections/customizer-general.php:36
+msgid "Right Sidebar"
+msgstr "Zijbalk rechts"
+
+#: inc/customizer/sections/customizer-general.php:51
+msgid "Default Fonts"
+msgstr ""
+
+#: inc/customizer/sections/customizer-general.php:68
+msgid "Deactivate Google Fonts in case your language is not compatible."
+msgstr ""
+
+#: inc/customizer/sections/customizer-header.php:14
+msgid "Header Settings"
+msgstr ""
+
+#: inc/customizer/sections/customizer-header.php:30
+msgid "Header Content"
+msgstr "Header content"
+
+#: inc/customizer/sections/customizer-header.php:47
+msgid "Display Social Icons on top navigation"
+msgstr ""
+
+#: inc/customizer/sections/customizer-post.php:14
+msgid "Post Settings"
+msgstr "Bericht instellingen"
+
+#: inc/customizer/sections/customizer-post.php:29
+#, fuzzy
+msgid "Post length on archives"
+msgstr "Bericht lengte in archief"
+
+#: inc/customizer/sections/customizer-post.php:35
+msgid "Show full posts"
+msgstr "Toon volledige berichten"
+
+#: inc/customizer/sections/customizer-post.php:36
+#, fuzzy
+msgid "Show post excerpts"
+msgstr "Toon bericht samenvattingen (uittreksels)"
+
+#: inc/customizer/sections/customizer-post.php:51
+msgid "Post Images"
+msgstr "Bericht afbeeldingen"
+
+#: inc/customizer/sections/customizer-post.php:66
+msgid "Display featured images on archive pages"
+msgstr "Toon uitgelichte afbeeldingen op archief pagina's"
+
+#: inc/customizer/sections/customizer-post.php:82
+msgid "Display featured images on single posts"
+msgstr "Toon uitgelichte afbeeldingen op alleenstaande berichten"
+
+#: inc/customizer/sections/customizer-post.php:100
+#, fuzzy
+msgid "Post Meta"
+msgstr "Bericht instellingen"
+
+#: inc/customizer/sections/customizer-post.php:115
+msgid "Display post date"
+msgstr ""
+
+#: inc/customizer/sections/customizer-post.php:130
+msgid "Display post author"
+msgstr ""
+
+#: inc/customizer/sections/customizer-post.php:145
+msgid "Display post categories"
+msgstr ""
+
+#: inc/customizer/sections/customizer-post.php:160
+msgid "Display post tags"
+msgstr ""
+
+#: inc/customizer/sections/customizer-slider.php:14
+msgid "Post Slider"
+msgstr "Berichten slider"
+
+#: inc/customizer/sections/customizer-slider.php:30
+#, fuzzy
+msgid "Activate Post Slider"
+msgstr "Activeer uitgelichte berichten diashow"
+
+#: inc/customizer/sections/customizer-slider.php:45
+#, fuzzy
+msgid "Show Slider on Magazine Homepage"
+msgstr "Toon diashow op Tijdschrift voorpagina template."
+
+#: inc/customizer/sections/customizer-slider.php:60
+#, fuzzy
+msgid "Show Slider on posts page"
+msgstr "Toon volledige berichten"
+
+#: inc/customizer/sections/customizer-slider.php:78
+msgid "Select Featured Posts"
+msgstr ""
+
+#: inc/customizer/sections/customizer-slider.php:95
+msgid ""
+"The slideshow displays all your featured posts. You can easily feature posts "
+"by a tag of your choice."
+msgstr ""
+
+#: inc/customizer/sections/customizer-slider.php:113
+msgid "Slider Animation"
+msgstr "Diashow animatie"
+
+#: inc/customizer/sections/customizer-slider.php:120
+msgid "Slide Effect"
+msgstr ""
+
+#: inc/customizer/sections/customizer-slider.php:121
+msgid "Fade Effect"
+msgstr ""
+
+#: inc/customizer/sections/customizer-upgrade.php:33
+msgid "You need more features?"
+msgstr ""
+
+#: inc/customizer/sections/customizer-upgrade.php:49
+msgid ""
+"Purchase the Pro Version to get additional features and advanced "
+"customization options."
+msgstr ""
+
+#: inc/widgets/widget-category-posts-boxed.php:11
+msgid ""
+"Displays your posts from a selected category in a boxed layout. Please use "
+"this widget ONLY in the Magazine Homepage widget area."
+msgstr ""
+
+#: inc/widgets/widget-category-posts-boxed.php:13
+#, php-format
+msgid "Category Posts: Boxed (%s)"
+msgstr ""
+
+#: inc/widgets/widget-category-posts-boxed.php:340
+#: inc/widgets/widget-category-posts-columns.php:268
+#: inc/widgets/widget-category-posts-grid.php:297
+#, php-format
+msgid "View all posts from category %s"
+msgstr ""
+
+#: inc/widgets/widget-category-posts-boxed.php:374
+#: inc/widgets/widget-category-posts-grid.php:332
+msgid "Title:"
+msgstr "Titel:"
+
+#: inc/widgets/widget-category-posts-boxed.php:380
+#: inc/widgets/widget-category-posts-grid.php:338
+msgid "Category:"
+msgstr "Categorie:"
+
+#: inc/widgets/widget-category-posts-boxed.php:383
+#: inc/widgets/widget-category-posts-columns.php:314
+#: inc/widgets/widget-category-posts-columns.php:335
+#: inc/widgets/widget-category-posts-grid.php:341
+msgid "All Categories"
+msgstr "Alle categorieën"
+
+#: inc/widgets/widget-category-posts-boxed.php:395
+msgid "Post Layout:"
+msgstr ""
+
+#: inc/widgets/widget-category-posts-boxed.php:397
+msgid "Horizontal Arrangement"
+msgstr ""
+
+#: inc/widgets/widget-category-posts-boxed.php:398
+msgid "Vertical Arrangement"
+msgstr ""
+
+#: inc/widgets/widget-category-posts-columns.php:11
+msgid ""
+"Displays your posts from two selected categories. Please use this widget "
+"ONLY in the Magazine Homepage widget area."
+msgstr ""
+
+#: inc/widgets/widget-category-posts-columns.php:13
+#, php-format
+msgid "Category Posts: 2 Columns (%s)"
+msgstr ""
+
+#: inc/widgets/widget-category-posts-columns.php:305
+msgid "Left Category Title:"
+msgstr ""
+
+#: inc/widgets/widget-category-posts-columns.php:311
+msgid "Left Category:"
+msgstr "Linker categorie:"
+
+#: inc/widgets/widget-category-posts-columns.php:326
+msgid "Right Category Title:"
+msgstr ""
+
+#: inc/widgets/widget-category-posts-columns.php:332
+msgid "Right Category:"
+msgstr "Rechter categorie:"
+
+#: inc/widgets/widget-category-posts-columns.php:347
+#: inc/widgets/widget-category-posts-grid.php:361
+msgid "Number of posts:"
+msgstr "Aantal berichten:"
+
+#: inc/widgets/widget-category-posts-columns.php:355
+msgid "Highlight first post (big image + excerpt)"
+msgstr ""
+
+#: inc/widgets/widget-category-posts-grid.php:11
+msgid ""
+"Displays your posts from a selected category in a grid layout. Please use "
+"this widget ONLY in the Magazine Homepage widget area."
+msgstr ""
+
+#: inc/widgets/widget-category-posts-grid.php:13
+#, php-format
+msgid "Category Posts: Grid (%s)"
+msgstr ""
+
+#: inc/widgets/widget-category-posts-grid.php:353
+msgid "Grid Layout:"
+msgstr ""
+
+#: inc/widgets/widget-category-posts-grid.php:355
+msgid "Two Columns Grid"
+msgstr ""
+
+#: inc/widgets/widget-category-posts-grid.php:356
+msgid "Three Columns Grid"
+msgstr ""
+
+#~ msgid ""
+#~ "The page you trying to reach does not exist, or has been moved. Please "
+#~ "use the menus or the search box to find what you are looking for"
+#~ msgstr ""
+#~ "De pagina die je probeert te openen bestaat niet, of is verwijderd. "
+#~ "Gebruik het menu of het zoekveld om te vinden waar je naar op zoek bent"
+
+#~ msgid "Search"
+#~ msgstr "Zoeken"
+
+#~ msgid "Recent Posts"
+#~ msgstr "Recente berichten"
+
+#~ msgid "Pages"
+#~ msgstr "Pagina's"
+
+#~ msgid "Previous"
+#~ msgstr "Vorige"
+
+#~ msgid "Next"
+#~ msgstr "Volgende"
+
+#~ msgid "Return to Gallery"
+#~ msgstr "Terug naar de galerij"
+
+#~ msgid "Return to"
+#~ msgstr "Terug naar"
+
+#~ msgid "Widget Area"
+#~ msgstr "Widget gebied"
+
+#~ msgid ""
+#~ "There are no active widgets to be displayed. Please go to Appearance -> "
+#~ "Widgets to setup your sidebar."
+#~ msgstr ""
+#~ "Er zijn geen actieve widgets om weer te geven. Ga naar Weergave → Widgets "
+#~ "om de zijbalk in te richten."
+
+#~ msgid "WordPress"
+#~ msgstr "WordPress"
+
+#~ msgid "Display Slider on normal blog index."
+#~ msgstr "Toon diashow op de normale blog index."
+
+#~ msgid "Horizontal Slider"
+#~ msgstr "Horizontale diashow"
+
+#~ msgid "Fade Slider"
+#~ msgstr "Fadende diashow"

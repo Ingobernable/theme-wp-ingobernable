@@ -1,0 +1,1644 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: best-magazine\n"
+"POT-Creation-Date: 2016-06-13 11:53+0400\n"
+"PO-Revision-Date: 2016-06-13 11:54+0400\n"
+"Last-Translator: dianna <dianna.arakelyan@gmail.com>\n"
+"Language-Team: webdorado\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr_e;esc_html_e;_x;_n\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:16 archive.php:81
+msgid "Not Found"
+msgstr ""
+
+#: 404.php:18
+msgid ""
+"You are trying to reach a page that does not exist here. Either it has been "
+"moved or you typed a wrong address. Try searching:"
+msgstr ""
+
+#: archive.php:28
+msgid "Archive For The "
+msgstr ""
+
+#: archive.php:28
+msgid "Category"
+msgstr ""
+
+#: archive.php:30
+msgid "Posts Tagged "
+msgstr ""
+
+#: archive.php:32 archive.php:34 archive.php:36
+msgid "Archive For "
+msgstr ""
+
+#: archive.php:38
+msgid "Author Archive"
+msgstr ""
+
+#: archive.php:40
+msgid "Blog Archives"
+msgstr ""
+
+#: archive.php:51
+msgid "By "
+msgstr ""
+
+#: archive.php:68
+msgid "Read more"
+msgstr ""
+
+#: archive.php:73 inc/front/frontend_params_output.php:1144
+#: inc/front/frontend_params_output.php:1209
+#: inc/front/frontend_params_output.php:1232 index.php:53 page.php:34
+#: search.php:37
+msgid "Previous Entries"
+msgstr ""
+
+#: archive.php:75 inc/front/frontend_params_output.php:1146
+#: inc/front/frontend_params_output.php:1211
+#: inc/front/frontend_params_output.php:1234 index.php:55 page.php:36
+#: search.php:39
+msgid "Next Entries"
+msgstr ""
+
+#: archive.php:82
+msgid ""
+"There are not posts belonging to this category or tag. Try searching below:"
+msgstr ""
+
+#: comments.php:8
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: comments.php:15
+#, php-format
+msgid "One comment on &ldquo;%2$s&rdquo;"
+msgstr ""
+
+#: comments.php:21 comments.php:32
+msgid "&#8249; Older comments"
+msgstr ""
+
+#: comments.php:22 comments.php:33
+msgid "Newer comments &#8250;"
+msgstr ""
+
+#: comments.php:44
+msgid "Pings&#47;Trackbacks"
+msgstr ""
+
+#: comments.php:46
+#, php-format
+msgid "%1$d %2$s for \"%3$s\""
+msgstr ""
+
+#: comments.php:56
+msgid "Name"
+msgstr ""
+
+#: comments.php:57
+msgid "E-mail"
+msgstr ""
+
+#: comments.php:58
+msgid "Website"
+msgstr ""
+
+#: comments.php:61
+msgid "Comment"
+msgstr ""
+
+#: functions.php:113
+msgid "field is required."
+msgstr ""
+
+#: functions.php:114
+msgid "This is not a valid email address."
+msgstr ""
+
+#: functions.php:115
+msgid "There are no images matching your search."
+msgstr ""
+
+#: functions.php:132
+msgid "Primary Widget Area"
+msgstr ""
+
+#: functions.php:136
+msgid "The primary widget area"
+msgstr ""
+
+#: functions.php:153
+msgid "Secondary Widget Area"
+msgstr ""
+
+#: functions.php:157 functions.php:177
+msgid "The secondary widget area"
+msgstr ""
+
+#: functions.php:173
+msgid "Footer Widget Area"
+msgstr ""
+
+#: inc/admin/WDWT_admin_controller.php:153
+#: inc/admin/WDWT_admin_controller.php:157
+msgid "Layout Editor"
+msgstr ""
+
+#: inc/admin/WDWT_admin_controller.php:166
+msgid "General"
+msgstr ""
+
+#: inc/admin/WDWT_admin_controller.php:170
+msgid "General - Main"
+msgstr ""
+
+#: inc/admin/WDWT_admin_controller.php:175
+msgid "General - Links"
+msgstr ""
+
+#: inc/admin/WDWT_admin_controller.php:185
+msgid "Homepage"
+msgstr ""
+
+#: inc/admin/WDWT_admin_controller.php:189
+msgid "Top Posts"
+msgstr ""
+
+#: inc/admin/WDWT_admin_controller.php:194
+msgid "Category Tabs"
+msgstr ""
+
+#: inc/admin/WDWT_admin_controller.php:199
+msgid "Featured Post"
+msgstr ""
+
+#: inc/admin/WDWT_admin_controller.php:204
+msgid "Content Post"
+msgstr ""
+
+#: inc/admin/WDWT_admin_controller.php:215
+msgid "Typography"
+msgstr ""
+
+#: inc/admin/WDWT_admin_controller.php:220
+msgid "Typography - Text Headers"
+msgstr ""
+
+#: inc/admin/WDWT_admin_controller.php:225
+msgid "Typography - Primary Font"
+msgstr ""
+
+#: inc/admin/WDWT_admin_controller.php:230
+msgid "Typography - Secondary Font"
+msgstr ""
+
+#: inc/admin/WDWT_admin_controller.php:235
+msgid "Typography - Inputs and Text Areas"
+msgstr ""
+
+#: inc/admin/WDWT_admin_controller.php:245
+msgid "Slider"
+msgstr ""
+
+#: inc/admin/WDWT_admin_controller.php:250
+msgid "Slider - General"
+msgstr ""
+
+#: inc/admin/WDWT_admin_controller.php:255
+msgid "Slider - Images"
+msgstr ""
+
+#: inc/admin/WDWT_admin_controller.php:263
+#: inc/admin/WDWT_admin_controller.php:268
+msgid "Lightbox"
+msgstr ""
+
+#: inc/admin/WDWT_admin_controller.php:278
+#: inc/admin/WDWT_admin_controller.php:282
+msgid "Color Control"
+msgstr ""
+
+#: inc/admin/WDWT_admin_controller.php:293
+#: inc/admin/WDWT_admin_controller.php:297
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: inc/admin/WDWT_admin_cpanel.php:133 inc/customizer/customizer.php:187
+#: inc/meta/meta.php:20
+msgid "You cannot delete the last slide! Try to turn off the slider"
+msgstr ""
+
+#: inc/admin/class-tgm-plugin-activation.php:333
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/admin/class-tgm-plugin-activation.php:334
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/admin/class-tgm-plugin-activation.php:335 inc/admin/plugins.php:193
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/admin/class-tgm-plugin-activation.php:336 inc/admin/plugins.php:194
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/admin/class-tgm-plugin-activation.php:397 inc/admin/plugins.php:255
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/admin/class-tgm-plugin-activation.php:398
+msgid "Return to the dashboard"
+msgstr ""
+
+#: inc/admin/class-tgm-plugin-activation.php:399
+#: inc/admin/class-tgm-plugin-activation.php:3235 inc/admin/plugins.php:257
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/admin/class-tgm-plugin-activation.php:400
+#: inc/admin/class-tgm-plugin-activation.php:3038 inc/admin/plugins.php:258
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: inc/admin/class-tgm-plugin-activation.php:401 inc/admin/plugins.php:259
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/admin/class-tgm-plugin-activation.php:402 inc/admin/plugins.php:260
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/admin/class-tgm-plugin-activation.php:403 inc/admin/plugins.php:261
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/admin/class-tgm-plugin-activation.php:404
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/admin/class-tgm-plugin-activation.php:405 inc/admin/plugins.php:262
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/admin/class-tgm-plugin-activation.php:1297
+msgid " and few others"
+msgstr ""
+
+#: inc/admin/class-tgm-plugin-activation.php:2063
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/admin/class-tgm-plugin-activation.php:2353
+msgid "Required"
+msgstr ""
+
+#: inc/admin/class-tgm-plugin-activation.php:2356
+msgid "Recommended"
+msgstr ""
+
+#: inc/admin/class-tgm-plugin-activation.php:2372
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/admin/class-tgm-plugin-activation.php:2375
+msgid "External Source"
+msgstr ""
+
+#: inc/admin/class-tgm-plugin-activation.php:2378
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/admin/class-tgm-plugin-activation.php:2408
+msgid "Not Installed"
+msgstr ""
+
+#: inc/admin/class-tgm-plugin-activation.php:2412
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/admin/class-tgm-plugin-activation.php:2414
+msgid "Active"
+msgstr ""
+
+#: inc/admin/class-tgm-plugin-activation.php:2420
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/admin/class-tgm-plugin-activation.php:2423
+msgid "Requires Update"
+msgstr ""
+
+#: inc/admin/class-tgm-plugin-activation.php:2426
+msgid "Update recommended"
+msgstr ""
+
+#: inc/admin/class-tgm-plugin-activation.php:2434
+#, php-format
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: inc/admin/class-tgm-plugin-activation.php:2482
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: inc/admin/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: inc/admin/class-tgm-plugin-activation.php:2488
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: inc/admin/class-tgm-plugin-activation.php:2574
+msgid "unknown"
+msgstr ""
+
+#: inc/admin/class-tgm-plugin-activation.php:2582
+msgid "Installed:"
+msgstr ""
+
+#: inc/admin/class-tgm-plugin-activation.php:2590
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/admin/class-tgm-plugin-activation.php:2602
+msgid "Available:"
+msgstr ""
+
+#: inc/admin/class-tgm-plugin-activation.php:2625
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+
+#: inc/admin/class-tgm-plugin-activation.php:2639
+msgid "Plugin"
+msgstr ""
+
+#: inc/admin/class-tgm-plugin-activation.php:2641
+msgid "Thumb"
+msgstr ""
+
+#: inc/admin/class-tgm-plugin-activation.php:2643
+msgid "Description"
+msgstr ""
+
+#: inc/admin/class-tgm-plugin-activation.php:2648
+msgid "Version"
+msgstr ""
+
+#: inc/admin/class-tgm-plugin-activation.php:2649
+msgid "Status"
+msgstr ""
+
+#: inc/admin/class-tgm-plugin-activation.php:2697
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/admin/class-tgm-plugin-activation.php:2701
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/admin/class-tgm-plugin-activation.php:2706
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/admin/class-tgm-plugin-activation.php:2809
+msgid "Install"
+msgstr ""
+
+#: inc/admin/class-tgm-plugin-activation.php:2815
+msgid "Update"
+msgstr ""
+
+#: inc/admin/class-tgm-plugin-activation.php:2818 inc/admin/plugins.php:256
+msgid "Activate"
+msgstr ""
+
+#: inc/admin/class-tgm-plugin-activation.php:2849
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/admin/class-tgm-plugin-activation.php:2851
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/admin/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/admin/class-tgm-plugin-activation.php:2889
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/admin/class-tgm-plugin-activation.php:3234
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/admin/class-tgm-plugin-activation.php:3568
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/admin/class-tgm-plugin-activation.php:3570
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/admin/class-tgm-plugin-activation.php:3571
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/admin/class-tgm-plugin-activation.php:3575
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/admin/class-tgm-plugin-activation.php:3576
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/admin/class-tgm-plugin-activation.php:3577
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/admin/class-tgm-plugin-activation.php:3578
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/admin/class-tgm-plugin-activation.php:3581
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/admin/class-tgm-plugin-activation.php:3583
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/admin/class-tgm-plugin-activation.php:3584
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/admin/general_settings_page.php:19
+msgid "Custom CSS"
+msgstr ""
+
+#: inc/admin/general_settings_page.php:23
+msgid ""
+"Custom CSS will change the visual style of the website. The CSS code "
+"provided here can be applied to any page or post."
+msgstr ""
+
+#: inc/admin/general_settings_page.php:35
+msgid "Provide the custom CSS code below."
+msgstr ""
+
+#: inc/admin/general_settings_page.php:43
+msgid "Logo"
+msgstr ""
+
+#: inc/admin/general_settings_page.php:47
+msgid ""
+"You can apply a custom logo image by clicking on the Upload Image button and "
+"uploading your image."
+msgstr ""
+
+#: inc/admin/general_settings_page.php:55
+msgid "Show Search in Header"
+msgstr ""
+
+#: inc/admin/general_settings_page.php:57
+msgid "Check to display search form in header."
+msgstr ""
+
+#: inc/admin/general_settings_page.php:65
+msgid "Blog Style post format"
+msgstr ""
+
+#: inc/admin/general_settings_page.php:67
+msgid "Check the box to have short previews for the homepage/index posts."
+msgstr ""
+
+#: inc/admin/general_settings_page.php:75
+msgid "Grab the first post image"
+msgstr ""
+
+#: inc/admin/general_settings_page.php:77
+msgid ""
+"Enable this option if you want to use the images that are already in your "
+"post to create a thumbnail without using custom fields. In this case "
+"thumbnail images will be generated automatically using the first image of "
+"the post. Note that the image needs to be hosted on your own server."
+msgstr ""
+
+#: inc/admin/general_settings_page.php:86
+msgid "Display post meta information"
+msgstr ""
+
+#: inc/admin/general_settings_page.php:88
+msgid ""
+"Choose whether to display the post meta information such as date, author and "
+"etc."
+msgstr ""
+
+#: inc/admin/general_settings_page.php:97
+#: inc/admin/general_settings_page.php:110
+msgid "Information in the Footer"
+msgstr ""
+
+#: inc/admin/general_settings_page.php:101
+msgid "Check the box to display custom HTML for the footer."
+msgstr ""
+
+#: inc/admin/general_settings_page.php:113
+msgid ""
+"Here you can provide the HTML code to be inserted in the footer of your web "
+"site."
+msgstr ""
+
+#: inc/admin/general_settings_page.php:121
+msgid "Show Twitter Icon"
+msgstr ""
+
+#: inc/admin/general_settings_page.php:125
+msgid "Check the box to display Twitter icon."
+msgstr ""
+
+#: inc/admin/general_settings_page.php:137
+msgid "Enter your Twitter Profile URL below."
+msgstr ""
+
+#: inc/admin/general_settings_page.php:146
+msgid "Show RSS Icon"
+msgstr ""
+
+#: inc/admin/general_settings_page.php:150
+msgid "Check the box to display RSS feed icon."
+msgstr ""
+
+#: inc/admin/general_settings_page.php:162
+msgid "Enter your RSS URL below."
+msgstr ""
+
+#: inc/admin/general_settings_page.php:171
+msgid "Show Facebook Icon"
+msgstr ""
+
+#: inc/admin/general_settings_page.php:175
+msgid "Check the box to display Facebook icon."
+msgstr ""
+
+#: inc/admin/general_settings_page.php:187
+msgid "Enter your Facebook Profile URL below."
+msgstr ""
+
+#: inc/admin/general_settings_page.php:196
+msgid "Show Google+ Icon"
+msgstr ""
+
+#: inc/admin/general_settings_page.php:200
+msgid "Check the box to display Google + icon."
+msgstr ""
+
+#: inc/admin/general_settings_page.php:211
+msgid "Enter your Google+ Profile URL below."
+msgstr ""
+
+#: inc/admin/general_settings_page.php:220
+msgid "Show Youtube Icon"
+msgstr ""
+
+#: inc/admin/general_settings_page.php:224
+msgid "Check the box to display Youtube icon."
+msgstr ""
+
+#: inc/admin/general_settings_page.php:235
+msgid "Enter your Youtube Profile URL below."
+msgstr ""
+
+#: inc/admin/general_settings_page.php:244
+msgid "Show Instagram Icon"
+msgstr ""
+
+#: inc/admin/general_settings_page.php:248
+msgid "Check the box to display Instagram icon."
+msgstr ""
+
+#: inc/admin/general_settings_page.php:259
+msgid "Enter your Instagram Profile URL below."
+msgstr ""
+
+#: inc/admin/general_settings_page.php:267
+msgid "Show LinkedIn Icon"
+msgstr ""
+
+#: inc/admin/general_settings_page.php:271
+msgid "Check the box to display LinkedIn icon."
+msgstr ""
+
+#: inc/admin/general_settings_page.php:282
+msgid "Enter your LinkedIn Profile URL below."
+msgstr ""
+
+#: inc/admin/general_settings_page.php:290
+msgid "Show Pinterest Icon"
+msgstr ""
+
+#: inc/admin/general_settings_page.php:294
+msgid "Check the box to display Pinterest icon."
+msgstr ""
+
+#: inc/admin/general_settings_page.php:305
+msgid "Enter your Pinterest Profile URL below."
+msgstr ""
+
+#: inc/admin/general_settings_page.php:320
+msgid "Show Favicon"
+msgstr ""
+
+#: inc/admin/general_settings_page.php:324
+msgid ""
+"Check the box to display custom favicon if your version of WordPress does "
+"not support it."
+msgstr ""
+
+#: inc/admin/general_settings_page.php:337
+msgid "Click on the Upload Image button to upload the favicon image."
+msgstr ""
+
+#: inc/admin/home_page.php:37
+msgid "Check the box to display the top posts from the homepage."
+msgstr ""
+
+#: inc/admin/home_page.php:49 inc/admin/home_page.php:173
+msgid "Name of top post category"
+msgstr ""
+
+#: inc/admin/home_page.php:62
+msgid ""
+"Select the categories from which you want the homepage top posts to be "
+"selected (the posts are selected automatically)."
+msgstr ""
+
+#: inc/admin/home_page.php:73 inc/admin/home_page.php:197
+msgid "Ascending"
+msgstr ""
+
+#: inc/admin/home_page.php:73 inc/admin/home_page.php:197
+msgid "Descending"
+msgstr ""
+
+#: inc/admin/home_page.php:74 inc/admin/home_page.php:198
+msgid "Order of posts"
+msgstr ""
+
+#: inc/admin/home_page.php:86 inc/admin/home_page.php:210
+msgid "Date"
+msgstr ""
+
+#: inc/admin/home_page.php:86 inc/admin/home_page.php:210
+msgid "Slug"
+msgstr ""
+
+#: inc/admin/home_page.php:86 inc/admin/home_page.php:210
+#: inc/lib/WDWT_admin_view.php:238 inc/widgets/widget-advert.php:229
+#: inc/widgets/widget-advert.php:240 inc/widgets/widget-advert.php:250
+#: inc/widgets/widget-category.php:80 inc/widgets/widget-events-category.php:74
+msgid "Title"
+msgstr ""
+
+#: inc/admin/home_page.php:87 inc/admin/home_page.php:211
+msgid "Order by"
+msgstr ""
+
+#: inc/admin/home_page.php:99
+msgid "Check the box to display the category tabs from the homepage."
+msgstr ""
+
+#: inc/admin/home_page.php:124
+msgid "Check the box to display the featured post from the homepage."
+msgstr ""
+
+#: inc/admin/home_page.php:136
+msgid "Name of featured post"
+msgstr ""
+
+#: inc/admin/home_page.php:148
+msgid "Select post for displaying in featured us page"
+msgstr ""
+
+#: inc/admin/home_page.php:161
+msgid ""
+"Check the box to select the categories from which top posts will be "
+"displayed."
+msgstr ""
+
+#: inc/admin/home_page.php:186
+msgid "Select the categories."
+msgstr ""
+
+#: inc/admin/home_page.php:219
+msgid "Show Posts Thumbnails"
+msgstr ""
+
+#: inc/admin/home_page.php:221
+msgid "Check the box to show posts thumbnails in content posts"
+msgstr ""
+
+#: inc/admin/home_page.php:263 inc/front/frontend_params_output.php:880
+msgid "Random Posts"
+msgstr ""
+
+#: inc/admin/home_page.php:264 inc/front/frontend_params_output.php:887
+msgid "Popular Posts"
+msgstr ""
+
+#: inc/admin/home_page.php:265 inc/front/frontend_params_output.php:894
+msgid "Recent Posts"
+msgstr ""
+
+#: inc/admin/layout_page.php:18 inc/meta/meta_layout_model.php:14
+msgid "Choose Default Layout"
+msgstr ""
+
+#: inc/admin/layout_page.php:21 inc/meta/meta_layout_model.php:18
+msgid "No Sidebar"
+msgstr ""
+
+#: inc/admin/layout_page.php:22 inc/meta/meta_layout_model.php:19
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/admin/layout_page.php:23 inc/meta/meta_layout_model.php:20
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/admin/layout_page.php:24 inc/meta/meta_layout_model.php:21
+msgid "Two Right Sidebars"
+msgstr ""
+
+#: inc/admin/layout_page.php:25 inc/meta/meta_layout_model.php:22
+msgid "Two Left Sidebars"
+msgstr ""
+
+#: inc/admin/layout_page.php:26 inc/meta/meta_layout_model.php:23
+msgid "One Right One Left Sidebars"
+msgstr ""
+
+#: inc/admin/layout_page.php:28
+msgid ""
+"Here you can select the default layout for pages and posts on the website."
+msgstr ""
+
+#: inc/admin/layout_page.php:48 inc/meta/meta_layout_model.php:41
+msgid "Full Width"
+msgstr ""
+
+#: inc/admin/layout_page.php:50
+msgid "You can choose full width for pages and posts on the website."
+msgstr ""
+
+#: inc/admin/layout_page.php:59 inc/meta/meta_layout_model.php:57
+msgid "Content Area Width"
+msgstr ""
+
+#: inc/admin/layout_page.php:63 inc/meta/meta_layout_model.php:61
+msgid "Specify the width of the Content Area"
+msgstr ""
+
+#: inc/admin/layout_page.php:76 inc/meta/meta_layout_model.php:71
+msgid "Main Column Width"
+msgstr ""
+
+#: inc/admin/layout_page.php:80 inc/meta/meta_layout_model.php:74
+msgid "Specify the width of the Main Column"
+msgstr ""
+
+#: inc/admin/layout_page.php:91 inc/meta/meta_layout_model.php:81
+msgid "Primary Widget Area width"
+msgstr ""
+
+#: inc/admin/layout_page.php:95 inc/meta/meta_layout_model.php:84
+msgid "Specify the width of the Primary Widget Area"
+msgstr ""
+
+#: inc/admin/licensing.php:15
+msgid ""
+"This theme is the non-commercial version of the Best Magazine theme. You "
+"will be able to use it free of charge. It comes with a large number of "
+"features. Some of the advanced features are not available for this option. "
+"If you want to use those features, you are required to upgrade to Pro "
+"version."
+msgstr ""
+
+#: inc/admin/licensing.php:18
+msgid "Features of the Theme"
+msgstr ""
+
+#: inc/admin/licensing.php:19 inc/admin/licensing.php:122
+msgid "Free"
+msgstr ""
+
+#: inc/admin/licensing.php:20
+msgid "Pro Version"
+msgstr ""
+
+#: inc/admin/licensing.php:25
+msgid "WordPress 3.4+ ready +"
+msgstr ""
+
+#: inc/admin/licensing.php:26 inc/admin/licensing.php:27
+#: inc/admin/licensing.php:31 inc/admin/licensing.php:32
+#: inc/admin/licensing.php:36 inc/admin/licensing.php:37
+#: inc/admin/licensing.php:41 inc/admin/licensing.php:42
+#: inc/admin/licensing.php:46 inc/admin/licensing.php:47
+#: inc/admin/licensing.php:51 inc/admin/licensing.php:52
+#: inc/admin/licensing.php:56 inc/admin/licensing.php:57
+#: inc/admin/licensing.php:61 inc/admin/licensing.php:62
+#: inc/admin/licensing.php:66 inc/admin/licensing.php:67
+#: inc/admin/licensing.php:71 inc/admin/licensing.php:72
+#: inc/admin/licensing.php:77 inc/admin/licensing.php:82
+#: inc/admin/licensing.php:87 inc/admin/licensing.php:92
+#: inc/admin/licensing.php:97 inc/admin/licensing.php:102
+#: inc/admin/licensing.php:107 inc/admin/licensing.php:112
+#: inc/admin/licensing.php:117
+msgid "yes"
+msgstr ""
+
+#: inc/admin/licensing.php:30
+msgid "SEO-friendly"
+msgstr ""
+
+#: inc/admin/licensing.php:35
+msgid "Custom favicon and logo"
+msgstr ""
+
+#: inc/admin/licensing.php:40
+msgid "Possibility to add custom CSS"
+msgstr ""
+
+#: inc/admin/licensing.php:45
+msgid "Featured animated slider"
+msgstr ""
+
+#: inc/admin/licensing.php:50
+msgid "30 pre-installed fonts"
+msgstr ""
+
+#: inc/admin/licensing.php:55
+msgid "Widgets for AdSense, Advertisements and Random posts"
+msgstr ""
+
+#: inc/admin/licensing.php:60
+msgid "Child theme support"
+msgstr ""
+
+#: inc/admin/licensing.php:65
+msgid "6 built in customizable layouts"
+msgstr ""
+
+#: inc/admin/licensing.php:70
+msgid "Social links"
+msgstr ""
+
+#: inc/admin/licensing.php:75
+msgid "14 additonal slider effects"
+msgstr ""
+
+#: inc/admin/licensing.php:76 inc/admin/licensing.php:81
+#: inc/admin/licensing.php:86 inc/admin/licensing.php:91
+#: inc/admin/licensing.php:96 inc/admin/licensing.php:101
+#: inc/admin/licensing.php:106 inc/admin/licensing.php:111
+#: inc/admin/licensing.php:116
+msgid "no"
+msgstr ""
+
+#: inc/admin/licensing.php:80
+msgid "Possibility to add custom codes, maintenance mode"
+msgstr ""
+
+#: inc/admin/licensing.php:85
+msgid "Advertisements and AdSense"
+msgstr ""
+
+#: inc/admin/licensing.php:90
+msgid "Full SEO management"
+msgstr ""
+
+#: inc/admin/licensing.php:95
+msgid "Color customization possibility"
+msgstr ""
+
+#: inc/admin/licensing.php:100
+msgid "8 different page templates"
+msgstr ""
+
+#: inc/admin/licensing.php:105
+msgid "Built-in shortcodes for Editor"
+msgstr ""
+
+#: inc/admin/licensing.php:110
+msgid "Admin settings control screen."
+msgstr ""
+
+#: inc/admin/licensing.php:115
+msgid "Support upon request in 24 hours"
+msgstr ""
+
+#: inc/admin/licensing.php:121
+msgid "Buy using PayPal or Credit Card"
+msgstr ""
+
+#: inc/admin/licensing.php:144
+msgid ""
+"The color customization parameters are disabled in free version. Please buy "
+"the commercial version in order to enable this functionality."
+msgstr ""
+
+#: inc/admin/lightbox_page.php:92
+msgid "Enable lightbox."
+msgstr ""
+
+#: inc/admin/lightbox_page.php:95 inc/widgets/Spider_Random_Post.php:360
+msgid "Yes"
+msgstr ""
+
+#: inc/admin/lightbox_page.php:96
+msgid "No"
+msgstr ""
+
+#: inc/admin/lightbox_page.php:106
+msgid "Slideshow interval."
+msgstr ""
+
+#: inc/admin/lightbox_page.php:110
+msgid "Interval of slideshow in seconds."
+msgstr ""
+
+#: inc/admin/lightbox_page.php:118 inc/admin/lightbox_page.php:122
+msgid "Lightbox width."
+msgstr ""
+
+#: inc/admin/lightbox_page.php:130 inc/admin/lightbox_page.php:134
+msgid "Lightbox height."
+msgstr ""
+
+#: inc/admin/lightbox_page.php:143 inc/admin/lightbox_page.php:165
+msgid "Lightbox transition effect"
+msgstr ""
+
+#: inc/admin/lightbox_page.php:175
+msgid "Enable fullscreen buttons"
+msgstr ""
+
+#: inc/admin/lightbox_page.php:186
+msgid "Open lightbox with fullscreen."
+msgstr ""
+
+#: inc/admin/lightbox_page.php:197
+msgid "Enable play and pause buttons."
+msgstr ""
+
+#: inc/admin/lightbox_page.php:207
+msgid "Open with autoplay."
+msgstr ""
+
+#: inc/admin/lightbox_page.php:218
+msgid "Enable info in lightbox."
+msgstr ""
+
+#: inc/admin/lightbox_page.php:220
+msgid "Add post title and excerpt as image info in lightbox."
+msgstr ""
+
+#: inc/admin/lightbox_page.php:230
+msgid "Always show info in lightbox."
+msgstr ""
+
+#: inc/admin/lightbox_page.php:240
+msgid "Full-width info in lightbox."
+msgstr ""
+
+#: inc/admin/lightbox_page.php:250
+msgid "Image info position"
+msgstr ""
+
+#: inc/admin/plugins.php:191
+msgid "Install Recommended Plugins"
+msgstr ""
+
+#: inc/admin/plugins.php:192
+msgid "Recommended Plugins"
+msgstr ""
+
+#: inc/admin/slider_page.php:14
+msgid "Specify where slider should be shown."
+msgstr ""
+
+#: inc/admin/slider_page.php:17
+msgid "Only on Homepage"
+msgstr ""
+
+#: inc/admin/slider_page.php:18
+msgid "On all the pages and posts"
+msgstr ""
+
+#: inc/admin/slider_page.php:19
+msgid "Hide Slider"
+msgstr ""
+
+#: inc/admin/slider_page.php:30
+msgid "Slider Height"
+msgstr ""
+
+#: inc/admin/slider_page.php:33
+msgid ""
+"Slider with the width of 1024px will have this height. When resized, image "
+"dimensions ratio is preserved."
+msgstr ""
+
+#: inc/admin/slider_page.php:43
+msgid "Animation Speed"
+msgstr ""
+
+#: inc/admin/slider_page.php:46
+msgid ""
+"When using an animation for the slider, you can control its speed. You can "
+"use the provided box to fill in the optimal speed."
+msgstr ""
+
+#: inc/admin/slider_page.php:55
+msgid "Pause Time"
+msgstr ""
+
+#: inc/admin/slider_page.php:58
+msgid ""
+"The timing for the slider animation can be customized. You can adjust it "
+"providing timing in the corresponding box."
+msgstr ""
+
+#: inc/admin/slider_page.php:68
+msgid "Stop animation while hovering"
+msgstr ""
+
+#: inc/admin/slider_page.php:71
+msgid ""
+"By default slider animation is constant. However you can choose it to stop "
+"while hovering, checking the box for this option."
+msgstr ""
+
+#: inc/admin/slider_page.php:82
+msgid "Effect"
+msgstr ""
+
+#: inc/admin/slider_page.php:85
+msgid ""
+"The animation of the slider can be customized with the help of various "
+"effects. You can choose the slider animation effect from the list included "
+"below."
+msgstr ""
+
+#: inc/admin/slider_page.php:114
+msgid "Title Position"
+msgstr ""
+
+#: inc/admin/slider_page.php:137
+msgid "Description Position"
+msgstr ""
+
+#: inc/admin/typography_page.php:18 inc/admin/typography_page.php:117
+#: inc/admin/typography_page.php:216 inc/admin/typography_page.php:315
+msgid "Select Font"
+msgstr ""
+
+#: inc/admin/typography_page.php:30 inc/admin/typography_page.php:129
+#: inc/admin/typography_page.php:228 inc/admin/typography_page.php:327
+#: inc/lib/WDWT_admin_view.php:916
+msgid "Preview"
+msgstr ""
+
+#: inc/admin/typography_page.php:38 inc/admin/typography_page.php:137
+#: inc/admin/typography_page.php:236 inc/admin/typography_page.php:336
+msgid "Edit font styling"
+msgstr ""
+
+#: inc/admin/typography_page.php:54 inc/admin/typography_page.php:153
+#: inc/admin/typography_page.php:252 inc/admin/typography_page.php:352
+msgid "Letter Spacing"
+msgstr ""
+
+#: inc/admin/typography_page.php:66 inc/admin/typography_page.php:165
+#: inc/admin/typography_page.php:264 inc/admin/typography_page.php:364
+msgid "Text Transform"
+msgstr ""
+
+#: inc/admin/typography_page.php:78 inc/admin/typography_page.php:177
+#: inc/admin/typography_page.php:276 inc/admin/typography_page.php:376
+msgid "Variant"
+msgstr ""
+
+#: inc/admin/typography_page.php:90 inc/admin/typography_page.php:189
+#: inc/admin/typography_page.php:288 inc/admin/typography_page.php:388
+msgid "Weight"
+msgstr ""
+
+#: inc/admin/typography_page.php:102 inc/admin/typography_page.php:201
+#: inc/admin/typography_page.php:300 inc/admin/typography_page.php:400
+msgid "Style"
+msgstr ""
+
+#: inc/front/WDWT_lightbox.php:513
+msgid "The image has been deleted."
+msgstr ""
+
+#: inc/front/WDWT_lightbox.php:527 inc/front/WDWT_lightbox.php:1507
+msgid "Play"
+msgstr ""
+
+#: inc/front/WDWT_lightbox.php:533 inc/front/WDWT_lightbox.php:1097
+#: inc/front/WDWT_lightbox.php:1364 inc/front/WDWT_lightbox.php:1443
+msgid "Maximize"
+msgstr ""
+
+#: inc/front/WDWT_lightbox.php:537 inc/front/WDWT_lightbox.php:1099
+#: inc/front/WDWT_lightbox.php:1445
+msgid "Fullscreen"
+msgstr ""
+
+#: inc/front/WDWT_lightbox.php:540 inc/front/WDWT_lightbox.php:1268
+msgid "Show info"
+msgstr ""
+
+#: inc/front/WDWT_lightbox.php:546
+msgid "Open image in original size."
+msgstr ""
+
+#: inc/front/WDWT_lightbox.php:1264
+msgid "Hide info"
+msgstr ""
+
+#: inc/front/WDWT_lightbox.php:1389 inc/front/WDWT_lightbox.php:1567
+msgid "Restore"
+msgstr ""
+
+#: inc/front/WDWT_lightbox.php:1485
+msgid "Exit Fullscreen"
+msgstr ""
+
+#: inc/front/WDWT_lightbox.php:1499 inc/front/WDWT_lightbox.php:1519
+msgid "Pause"
+msgstr ""
+
+#: inc/front/frontend_functions.php:24
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: inc/front/frontend_functions.php:78
+msgid "Older entries"
+msgstr ""
+
+#: inc/front/frontend_functions.php:83
+msgid "Newer entries"
+msgstr ""
+
+#: inc/front/frontend_params_output.php:748
+#: inc/front/frontend_params_output.php:937
+msgid "Left"
+msgstr ""
+
+#: inc/front/frontend_params_output.php:749
+#: inc/front/frontend_params_output.php:938
+msgid "Right"
+msgstr ""
+
+#: inc/front/frontend_params_output.php:1200 inc/lib/WDWT_output.php:259
+#: index.php:45
+msgid "More"
+msgstr ""
+
+#: inc/lib/WDWT_admin_view.php:245
+msgid "Percent"
+msgstr ""
+
+#: inc/lib/WDWT_admin_view.php:249
+msgid "Remove this percent"
+msgstr ""
+
+#: inc/lib/WDWT_admin_view.php:258
+msgid "Add new percent value"
+msgstr ""
+
+#: inc/lib/WDWT_admin_view.php:1000
+msgid "Upload Image"
+msgstr ""
+
+#: inc/lib/WDWT_admin_view.php:1049
+msgid "Image URL"
+msgstr ""
+
+#: inc/lib/WDWT_admin_view.php:1053
+msgid "Update image"
+msgstr ""
+
+#: inc/lib/WDWT_admin_view.php:1055
+msgid "Remove this slide"
+msgstr ""
+
+#: inc/lib/WDWT_admin_view.php:1064
+msgid "Image Href"
+msgstr ""
+
+#: inc/lib/WDWT_admin_view.php:1070
+msgid "Image Title"
+msgstr ""
+
+#: inc/lib/WDWT_admin_view.php:1077
+msgid "Image Description"
+msgstr ""
+
+#: inc/lib/WDWT_admin_view.php:1088
+msgid "Image"
+msgstr ""
+
+#: inc/lib/WDWT_admin_view.php:1089
+msgid "Using this option you can add images for the slider."
+msgstr ""
+
+#: inc/lib/WDWT_admin_view.php:1097
+msgid "Add new slide"
+msgstr ""
+
+#: inc/lib/WDWT_output.php:127
+msgid "Such element type does not exist!"
+msgstr ""
+
+#: inc/lib/WDWT_output.php:190
+msgid "This section allows you to add meta keywords, metatags, titles. "
+msgstr ""
+
+#: inc/lib/WDWT_output.php:195
+msgid "This section allows you to make changes in default layout of the theme."
+msgstr ""
+
+#: inc/lib/WDWT_output.php:200
+msgid ""
+"This section allows you to make changes in your site and customize it in "
+"accordance to personal preferences."
+msgstr ""
+
+#: inc/lib/WDWT_output.php:205
+msgid ""
+"This section allows you to make changes in post styles and customize your "
+"homepage appearance. "
+msgstr ""
+
+#: inc/lib/WDWT_output.php:210
+msgid ""
+"This section allows you to add integration codes in various areas of the "
+"site."
+msgstr ""
+
+#: inc/lib/WDWT_output.php:215
+msgid ""
+"This section allows you customizing certain color features in the theme. "
+msgstr ""
+
+#: inc/lib/WDWT_output.php:220
+msgid "This section allows you to change the font styles."
+msgstr ""
+
+#: inc/lib/WDWT_output.php:225
+msgid "This section allows you customize the slider. "
+msgstr ""
+
+#: inc/lib/WDWT_output.php:230
+msgid "This section allows to add sample data."
+msgstr ""
+
+#: inc/lib/WDWT_output.php:240
+msgid "This section allows you customize the lightbox. "
+msgstr ""
+
+#: inc/lib/WDWT_output.php:245
+msgid "Available updates for the theme."
+msgstr ""
+
+#: inc/lib/WDWT_output.php:257
+msgid "User Manual."
+msgstr ""
+
+#: inc/meta/meta_layout_model.php:16
+msgid "Select the default layout for pages and posts on the website."
+msgstr ""
+
+#: inc/meta/meta_layout_model.php:43
+msgid "Full width layout for this page/post"
+msgstr ""
+
+#: inc/meta/meta_layout_model.php:49
+msgid "Featured Image"
+msgstr ""
+
+#: inc/meta/meta_layout_model.php:51
+msgid "Show Featured Image in single page/post view"
+msgstr ""
+
+#: inc/notices/WDWT_notices.php:201
+msgid "Leave A Review?"
+msgstr ""
+
+#: inc/notices/WDWT_notices.php:202
+#, php-format
+msgid ""
+"We hope you've enjoyed using WordPress %s! Would you consider leaving us a "
+"review on WordPress.org?"
+msgstr ""
+
+#: inc/notices/WDWT_notices.php:203
+msgid "Sure! I'd love to!"
+msgstr ""
+
+#: inc/notices/WDWT_notices.php:204
+msgid "I've already left a review"
+msgstr ""
+
+#: inc/notices/WDWT_notices.php:205
+msgid "Maybe Later"
+msgstr ""
+
+#: inc/notices/WDWT_notices.php:206 inc/notices/WDWT_notices.php:216
+msgid "Never show again"
+msgstr ""
+
+#: inc/notices/WDWT_notices.php:212
+msgid "Hey! How's It Going?"
+msgstr ""
+
+#: inc/notices/WDWT_notices.php:213
+#, php-format
+msgid ""
+"Thank you for using WordPress %s! We hope that you've found everything you "
+"need, but if you have any questions:"
+msgstr ""
+
+#: inc/notices/WDWT_notices.php:214
+msgid "Check out User Guide"
+msgstr ""
+
+#: inc/notices/WDWT_notices.php:215
+msgid "Get Some Help"
+msgstr ""
+
+#: inc/widgets/Spider_Random_Post.php:10
+msgid ""
+"Spider Random Post allows you to show posts in a random order in a sidebar."
+msgstr ""
+
+#: inc/widgets/Spider_Random_Post.php:12
+#, php-format
+msgid "%s Random  Posts"
+msgstr ""
+
+#: inc/widgets/Spider_Random_Post.php:322 inc/widgets/widget-adsens.php:49
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets/Spider_Random_Post.php:329
+#: inc/widgets/Spider_Random_Post.php:332 inc/widgets/widget-category.php:83
+#: inc/widgets/widget-category.php:85 inc/widgets/widget-events-category.php:77
+#: inc/widgets/widget-events-category.php:79
+msgid "Select Category"
+msgstr ""
+
+#: inc/widgets/Spider_Random_Post.php:352
+msgid "Quantity of Posts:"
+msgstr ""
+
+#: inc/widgets/Spider_Random_Post.php:357
+msgid "Auto Update"
+msgstr ""
+
+#: inc/widgets/Spider_Random_Post.php:359
+msgid " No"
+msgstr ""
+
+#: inc/widgets/Spider_Random_Post.php:366
+msgid "Visualization"
+msgstr ""
+
+#: inc/widgets/Spider_Random_Post.php:369
+msgid "Style 1"
+msgstr ""
+
+#: inc/widgets/Spider_Random_Post.php:370
+msgid "Style 2"
+msgstr ""
+
+#: inc/widgets/Spider_Random_Post.php:371
+msgid "Style 3"
+msgstr ""
+
+#: inc/widgets/Spider_Random_Post.php:372
+msgid "Style 4"
+msgstr ""
+
+#: inc/widgets/Spider_Random_Post.php:373
+msgid "Random"
+msgstr ""
+
+#: inc/widgets/Spider_Random_Post.php:378
+msgid "Time of update(sec)"
+msgstr ""
+
+#: inc/widgets/widget-adsens.php:5
+msgid "Displays Adsense"
+msgstr ""
+
+#: inc/widgets/widget-adsens.php:7
+#, php-format
+msgid "%s Adsense"
+msgstr ""
+
+#: inc/widgets/widget-adsens.php:43
+msgid "Adsense"
+msgstr ""
+
+#: inc/widgets/widget-adsens.php:52
+msgid "Adsense Code:"
+msgstr ""
+
+#: inc/widgets/widget-advert.php:5
+msgid "Displays Advertisements"
+msgstr ""
+
+#: inc/widgets/widget-advert.php:7
+#, php-format
+msgid "%s Advertisement"
+msgstr ""
+
+#: inc/widgets/widget-advert.php:50
+msgid "Advertisement"
+msgstr ""
+
+#: inc/widgets/widget-advert.php:236
+msgid "Banner"
+msgstr ""
+
+#: inc/widgets/widget-advert.php:237 inc/widgets/widget-advert.php:247
+msgid "Remove"
+msgstr ""
+
+#: inc/widgets/widget-advert.php:238 inc/widgets/widget-advert.php:248
+msgid "Path"
+msgstr ""
+
+#: inc/widgets/widget-advert.php:239 inc/widgets/widget-advert.php:249
+msgid "Url"
+msgstr ""
+
+#: inc/widgets/widget-advert.php:241 inc/widgets/widget-advert.php:251
+msgid "Alt"
+msgstr ""
+
+#: inc/widgets/widget-advert.php:246
+msgid "Banner 1"
+msgstr ""
+
+#: inc/widgets/widget-advert.php:254
+msgid "Add Banner"
+msgstr ""
+
+#: inc/widgets/widget-category.php:5
+msgid "Displays Categories Posts"
+msgstr ""
+
+#: inc/widgets/widget-category.php:8
+#, php-format
+msgid "%s Categories Posts"
+msgstr ""
+
+#: inc/widgets/widget-category.php:74
+msgid "Categories Posts"
+msgstr ""
+
+#: inc/widgets/widget-category.php:97 inc/widgets/widget-events-category.php:91
+msgid "Number of Posts"
+msgstr ""
+
+#: inc/widgets/widget-events-category.php:5
+msgid "Displays Events Categories Posts"
+msgstr ""
+
+#: inc/widgets/widget-events-category.php:7
+#, php-format
+msgid "%s Events Categories Posts"
+msgstr ""
+
+#: inc/widgets/widget-events-category.php:68
+msgid "Events Categories Posts"
+msgstr ""
+
+#: search.php:19 searchform.php:5
+msgid "Search"
+msgstr ""
+
+#: search.php:45
+msgid "Nothing was found. Please try another keyword."
+msgstr ""
+
+#: searchform.php:4
+msgid "Type here"
+msgstr ""
+
+#: single.php:51
+msgid "Page"
+msgstr ""
+
+#~ msgid "Search..."
+#~ msgstr "Buscar ... "
+
+#~ msgid ""
+#~ "<span class=\"sep date\"></span><a href=\"%1$s\" title=\"%2$s\" rel="
+#~ "\"bookmark\"><time class=\"entry-date\" datetime=\"%3$s\">%4$s</time></a>"
+#~ msgstr ""
+#~ "<span class=\"sep date\"></span><a href=\"%1$s\" title=\"%2$s\" rel="
+#~ "\"bookmark\"><time class=\"entry-date\" datetime=\"%3$s\">%4$s</time></a>"
+
+#~ msgid ""
+#~ "<span class=\"sep date\"></span><a href=\"%1$s\" title=\"%2$s\" rel="
+#~ "\"bookmark\"><time class=\"entry-date\" datetime=\"%3$s\">%4$s</time></"
+#~ "a><span class=\"by-author\"> <span class=\"sep author\"></span> <span "
+#~ "class=\"author vcard\"><a class=\"url fn n\" href=\"%5$s\" title=\"%6$s\" "
+#~ "rel=\"author\">%7$s</a></span></span>"
+#~ msgstr ""
+#~ "<span class=\"sep date\"></span><a href=\"%1$s\" title=\"%2$s\" rel="
+#~ "\"bookmark\"><time class=\"entry-date\" datetime=\"%3$s\">%4$s</time></"
+#~ "a><span class=\"by-author\"> <span class=\"sep author\"></span> <span "
+#~ "class=\"author vcard\"><a class=\"url fn n\" href=\"%5$s\" title=\"%6$s\" "
+#~ "rel=\"author\">%7$s</a></span></span>"
+
+#~ msgid "Our facebook page"
+#~ msgstr "Nuestra página de facebook "
+
+#~ msgid "Our twitter page"
+#~ msgstr "Nuestra página de Twitter "
+
+#~ msgid "Our Google plus page"
+#~ msgstr "Nuestra página de Google plus "
+
+#~ msgid "Our RSS"
+#~ msgstr "Nuestro RSS "
+
+#~ msgid "The name field is required."
+#~ msgstr "Se requiere que el campo de nombre. "
+
+#~ msgid "Schemes"
+#~ msgstr "Esquemas "
+
+#~ msgid "Home"
+#~ msgstr "casa "
+
+#~ msgid "SEO Web Business"
+#~ msgstr "SEO Web Business "
+
+#~ msgid "Popular"
+#~ msgstr "popular "
+
+#~ msgid "Recent"
+#~ msgstr "reciente"

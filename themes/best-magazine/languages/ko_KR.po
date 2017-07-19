@@ -1,0 +1,283 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: magazine\n"
+"POT-Creation-Date: 2014-07-07 11:44+0400\n"
+"PO-Revision-Date: 2014-07-07 11:49+0400\n"
+"Last-Translator: dianna <dianna.arakelyan@gmail.com>\n"
+"Language-Team: magazine\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.3\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: magazine;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: C:\\wamp\\www\\wordpress_for_theme\\wp-content\\themes"
+"\\magazin\n"
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/404.php:26
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-search.php:46
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/search.php:28
+msgid "Type here"
+msgstr "여기에 입력하십시오 "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/404.php:27
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-search.php:47
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/search.php:22
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/search.php:29
+msgid "Search"
+msgstr "수색 "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/comments.php:22
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/comments.php:33
+msgid "&#8249; Older comments"
+msgstr "&#8249; 이전 코멘트 "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/comments.php:23
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/comments.php:34
+msgid "Newer comments &#8250;"
+msgstr "최근 코멘트  &#8250;"
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/comments.php:45
+msgid "Pings&#47;Trackbacks"
+msgstr "핑&#47;트랙백"
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/comments.php:48
+#, php-format
+msgid "%1$d %2$s for \"%3$s\""
+msgstr "%1$d %2$s 에 \"%3$s\""
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/comments.php:62
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-contact.php:44
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-contact.php:132
+msgid "Name"
+msgstr "이름"
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/comments.php:63
+msgid "E-mail"
+msgstr "E-메일"
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/comments.php:64
+msgid "Website"
+msgstr "웹 사이트 "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/comments.php:68
+msgid "Comment"
+msgstr "논평 "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/functions.php:37
+#, php-format
+msgid ""
+"<span class=\"sep date\"></span><a href=\"%1$s\" title=\"%2$s\" rel="
+"\"bookmark\"><time class=\"entry-date\" datetime=\"%3$s\">%4$s</time></a>"
+msgstr ""
+"<span class=\"sep date\"></span><a href=\"%1$s\" title=\"%2$s\" rel="
+"\"bookmark\"><time class=\"entry-date\" datetime=\"%3$s\">%4$s</time></a>"
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/functions.php:46
+#, php-format
+msgid ""
+"<span class=\"sep date\"></span><a href=\"%1$s\" title=\"%2$s\" rel="
+"\"bookmark\"><time class=\"entry-date\" datetime=\"%3$s\">%4$s</time></"
+"a><span class=\"by-author\"> <span class=\"sep author\"></span> <span class="
+"\"author vcard\"><a class=\"url fn n\" href=\"%5$s\" title=\"%6$s\" rel="
+"\"author\">%7$s</a></span></span>"
+msgstr ""
+"<span class=\"sep date\"></span><a href=\"%1$s\" title=\"%2$s\" rel="
+"\"bookmark\"><time class=\"entry-date\" datetime=\"%3$s\">%4$s</time></"
+"a><span class=\"by-author\"> <span class=\"sep author\"></span> <span class="
+"\"author vcard\"><a class=\"url fn n\" href=\"%5$s\" title=\"%6$s\" rel="
+"\"author\">%7$s</a></span></span>"
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/functions.php:52
+#, php-format
+msgid "View all posts by %s"
+msgstr "모든 게시글보기 %s"
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/header.php:68
+msgid "Our facebook page"
+msgstr "페이스 북 페이지 "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/header.php:69
+msgid "Our twitter page"
+msgstr "우리의 트위터 페이지 "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/header.php:70
+msgid "Our Google plus page"
+msgstr "우리의 구글 플러스 페이지 "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/header.php:71
+msgid "Our RSS"
+msgstr "우리의 RSS"
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-blog.php:101
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/front_end/front_end_functions.php:433
+msgid "More"
+msgstr "더"
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-contact.php:50
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-contact.php:140
+msgid "Your Email"
+msgstr "이메일 "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-contact.php:62
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-contact.php:156
+msgid "Comments"
+msgstr "댓글 "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-contact.php:78
+msgid "The name field is required."
+msgstr "이름 입력란은 필수입니다. "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-contact.php:83
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-contact.php:174
+msgid "Incorrect Captcha code. Please try again."
+msgstr "잘못된 보안 문자 코드. 다시 시도하십시오."
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-contact.php:88
+msgid "Error submitting message."
+msgstr "메시지를 전송 오류. "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-contact.php:93
+msgid "Your message was submitted successfully"
+msgstr "귀하의 메시지가 성공적으로 제출되었습니다 "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-contact.php:148
+msgid "Message title"
+msgstr "메시지 제목 "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-contact.php:173
+msgid "Reset"
+msgstr "재설정 "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-contact.php:174
+msgid "Send"
+msgstr "보내기 "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-contact.php:174
+msgid "The Name field is required."
+msgstr "이름 입력란은 필수입니다. "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-contact.php:174
+msgid "The Email field is required."
+msgstr "이메일 필드가 필요합니다. "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-contact.php:174
+msgid "Please provide a valid email address."
+msgstr "유효한 이메일 주소를 제공하십시오."
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-contact.php:174
+msgid "The Message field is required."
+msgstr "메시지 필드가 필요합니다. "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-login.php:41
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-login.php:47
+msgid "Log in"
+msgstr "로그인 "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-login.php:44
+msgid "Password"
+msgstr "암호 "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-login.php:61
+msgid "Log Out"
+msgstr "로그 아웃 "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-sitemap.php:44
+msgid "Static Pages:"
+msgstr "정적 페이지 : "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-sitemap.php:51
+msgid "All Categories:"
+msgstr "모든 카테고리 : "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-sitemap.php:59
+msgid "Tags:"
+msgstr "태그 : "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-sitemap.php:72
+msgid "Archives:"
+msgstr "아카이브 : "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-sitemap.php:80
+msgid "Authors:"
+msgstr "저자 : "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-sitemap.php:87
+msgid "Blog Posts:"
+msgstr "블로그 글 : "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/searchform.php:2
+msgid "Search..."
+msgstr "검색 ... "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/single.php:58
+msgid "Page"
+msgstr "페이지 "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/admin/color_control.php:588
+msgid "Schemes"
+msgstr "구성표 "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/admin/install_sampl_date.php:1420
+msgid "Home"
+msgstr "홈 "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/admin/includes/meta/seo_meta.php:16
+msgid "SEO Web Business"
+msgstr "SEO 웹 비즈니스"
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/admin/shortcode/tinymce/config.php:15
+msgid "Insert Button Shortcode"
+msgstr "버튼 단축 코드를 삽입 "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/admin/shortcode/tinymce/config.php:26
+msgid "Insert Link Shortcode"
+msgstr "링크 단축 코드를 삽입 "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/admin/shortcode/tinymce/config.php:40
+msgid "Insert Info Box Shortcode"
+msgstr "정보 상자보기 단축을 삽입 "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/admin/shortcode/tinymce/config.php:50
+msgid "Insert Quote Box Shortcode"
+msgstr "견적 상자 단축 코드를 삽입 "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/admin/shortcode/tinymce/config.php:61
+msgid "Insert Contact Form Shortcode"
+msgstr "문의 양식보기 단축을 삽입 "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/admin/shortcode/tinymce/config.php:71
+msgid "Insert Tabs Creator Shortcode"
+msgstr "탭 창조주보기 단축을 삽입 "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/admin/shortcode/tinymce/config.php:80
+msgid "Insert Related Posts Shortcode"
+msgstr "관련 게시물보기 단축을 삽입 "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/admin/shortcode/tinymce/config.php:89
+msgid "Insert Columns Layout Shortcode"
+msgstr "열보기 레이아웃 단축 코드를 삽입 "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/front_end/front_end_functions.php:330
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/front_end/front_end_functions.php:605
+msgid "Left"
+msgstr "좌회전 "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/front_end/front_end_functions.php:331
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/front_end/front_end_functions.php:606
+msgid "Right"
+msgstr "권리 "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/front_end/front_end_functions.php:646
+msgid "Random"
+msgstr "임의 "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/front_end/front_end_functions.php:653
+msgid "Popular"
+msgstr "인기있는 "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/front_end/front_end_functions.php:660
+msgid "Recent"
+msgstr "최근"

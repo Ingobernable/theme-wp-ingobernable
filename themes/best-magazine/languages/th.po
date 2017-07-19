@@ -1,0 +1,283 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: magazine\n"
+"POT-Creation-Date: 2014-07-07 14:45+0400\n"
+"PO-Revision-Date: 2014-07-07 14:51+0400\n"
+"Last-Translator: dianna <dianna.arakelyan@gmail.com>\n"
+"Language-Team: magazine\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.3\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: magazine;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: C:\\wamp\\www\\wordpress_for_theme\\wp-content\\themes"
+"\\magazin\n"
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/404.php:26
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-search.php:46
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/search.php:28
+msgid "Type here"
+msgstr "พิมพ์ที่นี่ "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/404.php:27
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-search.php:47
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/search.php:22
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/search.php:29
+msgid "Search"
+msgstr "ค้นหา "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/comments.php:22
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/comments.php:33
+msgid "&#8249; Older comments"
+msgstr "&#8249; ความคิดเห็นที่มีอายุมากกว่า"
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/comments.php:23
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/comments.php:34
+msgid "Newer comments &#8250;"
+msgstr "ความคิดเห็นใหม่ &#8250;"
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/comments.php:45
+msgid "Pings&#47;Trackbacks"
+msgstr "ปิง &#47;การติดตามข้อมูล "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/comments.php:48
+#, php-format
+msgid "%1$d %2$s for \"%3$s\""
+msgstr "%1$d %2$s เพื่อ  \"%3$s\""
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/comments.php:62
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-contact.php:44
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-contact.php:132
+msgid "Name"
+msgstr "ชื่อ "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/comments.php:63
+msgid "E-mail"
+msgstr "E-mail"
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/comments.php:64
+msgid "Website"
+msgstr "เว็บไซต์ "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/comments.php:68
+msgid "Comment"
+msgstr "ความเห็น "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/functions.php:37
+#, php-format
+msgid ""
+"<span class=\"sep date\"></span><a href=\"%1$s\" title=\"%2$s\" rel="
+"\"bookmark\"><time class=\"entry-date\" datetime=\"%3$s\">%4$s</time></a>"
+msgstr ""
+"<span class=\"sep date\"></span><a href=\"%1$s\" title=\"%2$s\" rel="
+"\"bookmark\"><time class=\"entry-date\" datetime=\"%3$s\">%4$s</time></a>"
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/functions.php:46
+#, php-format
+msgid ""
+"<span class=\"sep date\"></span><a href=\"%1$s\" title=\"%2$s\" rel="
+"\"bookmark\"><time class=\"entry-date\" datetime=\"%3$s\">%4$s</time></"
+"a><span class=\"by-author\"> <span class=\"sep author\"></span> <span class="
+"\"author vcard\"><a class=\"url fn n\" href=\"%5$s\" title=\"%6$s\" rel="
+"\"author\">%7$s</a></span></span>"
+msgstr ""
+"<span class=\"sep date\"></span><a href=\"%1$s\" title=\"%2$s\" rel="
+"\"bookmark\"><time class=\"entry-date\" datetime=\"%3$s\">%4$s</time></"
+"a><span class=\"by-author\"> <span class=\"sep author\"></span> <span class="
+"\"author vcard\"><a class=\"url fn n\" href=\"%5$s\" title=\"%6$s\" rel="
+"\"author\">%7$s</a></span></span>"
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/functions.php:52
+#, php-format
+msgid "View all posts by %s"
+msgstr "ดูข้อความทั้งหมด %s"
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/header.php:68
+msgid "Our facebook page"
+msgstr "หน้า Facebook ของเรา "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/header.php:69
+msgid "Our twitter page"
+msgstr "หน้าทวิตเตอร์ของเรา "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/header.php:70
+msgid "Our Google plus page"
+msgstr "หน้า Google บวกของเรา "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/header.php:71
+msgid "Our RSS"
+msgstr "RSS ของเรา "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-blog.php:101
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/front_end/front_end_functions.php:433
+msgid "More"
+msgstr "ขึ้น "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-contact.php:50
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-contact.php:140
+msgid "Your Email"
+msgstr "อีเมล์ของคุณ "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-contact.php:62
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-contact.php:156
+msgid "Comments"
+msgstr "ความเห็น "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-contact.php:78
+msgid "The name field is required."
+msgstr "สนามจะต้องระบุชื่อ "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-contact.php:83
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-contact.php:174
+msgid "Incorrect Captcha code. Please try again."
+msgstr "รหัสบังคับไม่ถูกต้อง โปรดลองอีกครั้ง "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-contact.php:88
+msgid "Error submitting message."
+msgstr "ข้อผิดพลาดในการส่งข้อความ"
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-contact.php:93
+msgid "Your message was submitted successfully"
+msgstr "ข้อความของคุณถูกส่งเรียบร้อยแล้ว "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-contact.php:148
+msgid "Message title"
+msgstr "ชื่อข้อความ "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-contact.php:173
+msgid "Reset"
+msgstr "ตั้งใหม่ "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-contact.php:174
+msgid "Send"
+msgstr "ส่ง "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-contact.php:174
+msgid "The Name field is required."
+msgstr "ฟิลด์ที่จำเป็น "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-contact.php:174
+msgid "The Email field is required."
+msgstr "เขตอีเมล์เป็นสิ่งจำเป็น "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-contact.php:174
+msgid "Please provide a valid email address."
+msgstr "โปรดให้ที่อยู่อีเมลที่ถูกต้อง "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-contact.php:174
+msgid "The Message field is required."
+msgstr "เขตข้อมูลข้อความที่จำเป็น "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-login.php:41
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-login.php:47
+msgid "Log in"
+msgstr "เข้าสู่ระบบ "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-login.php:44
+msgid "Password"
+msgstr "รหัสผ่าน "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-login.php:61
+msgid "Log Out"
+msgstr "ออกจากระบบ "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-sitemap.php:44
+msgid "Static Pages:"
+msgstr "คงที่หน้า: "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-sitemap.php:51
+msgid "All Categories:"
+msgstr "รวมทุกหมวดหมู่: "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-sitemap.php:59
+msgid "Tags:"
+msgstr "tags: "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-sitemap.php:72
+msgid "Archives:"
+msgstr "คลังเก็บ: "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-sitemap.php:80
+msgid "Authors:"
+msgstr "ผู้เขียน:"
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/page-sitemap.php:87
+msgid "Blog Posts:"
+msgstr "blog โพสต์: "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/searchform.php:2
+msgid "Search..."
+msgstr "ค้นหา ..."
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/single.php:58
+msgid "Page"
+msgstr "หน้า "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/admin/color_control.php:588
+msgid "Schemes"
+msgstr "แบบแผน "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/admin/install_sampl_date.php:1420
+msgid "Home"
+msgstr "บ้าน "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/admin/includes/meta/seo_meta.php:16
+msgid "SEO Web Business"
+msgstr "SEO เว็บธุรกิจ "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/admin/shortcode/tinymce/config.php:15
+msgid "Insert Button Shortcode"
+msgstr "ใส่ปุ่มย่อ "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/admin/shortcode/tinymce/config.php:26
+msgid "Insert Link Shortcode"
+msgstr "ใส่ลิงค์ย่อ"
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/admin/shortcode/tinymce/config.php:40
+msgid "Insert Info Box Shortcode"
+msgstr "แทรกข้อมูลกล่องย่อ "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/admin/shortcode/tinymce/config.php:50
+msgid "Insert Quote Box Shortcode"
+msgstr "ใส่รหัสย่ออ้างกล่อง "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/admin/shortcode/tinymce/config.php:61
+msgid "Insert Contact Form Shortcode"
+msgstr "ใส่แบบฟอร์มติดต่อย่อ "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/admin/shortcode/tinymce/config.php:71
+msgid "Insert Tabs Creator Shortcode"
+msgstr "ใส่แท็บสร้างย่อ "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/admin/shortcode/tinymce/config.php:80
+msgid "Insert Related Posts Shortcode"
+msgstr "ใส่บทความที่เกี่ยวข้องย่อ "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/admin/shortcode/tinymce/config.php:89
+msgid "Insert Columns Layout Shortcode"
+msgstr "แทรกคอลัมน์เค้าโครงย่อ "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/front_end/front_end_functions.php:330
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/front_end/front_end_functions.php:605
+msgid "Left"
+msgstr "ซ้าย "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/front_end/front_end_functions.php:331
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/front_end/front_end_functions.php:606
+msgid "Right"
+msgstr "ขวา "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/front_end/front_end_functions.php:646
+msgid "Random"
+msgstr "สุ่ม "
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/front_end/front_end_functions.php:653
+msgid "Popular"
+msgstr "เป็นที่นิยม"
+
+#: C:\wamp\www\wordpress_for_theme\wp-content\themes\magazin/front_end/front_end_functions.php:660
+msgid "Recent"
+msgstr "เมื่อเร็ว ๆ นี้"

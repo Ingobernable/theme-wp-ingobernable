@@ -1,0 +1,123 @@
+== Change log ==
+
+= 1.5.1 - May 17 2017 =
+* Update : Image Size Recommendation
+* Fix : Some Minor Bugs
+
+= 1.5.0 - May 15 2017 =
+* Add: Theme Menu Page
+* Add: Acme Demo Setup, information
+* Add: Widget on different places
+* Add: Front Page, Archive and Single Page/Post Advanced Sidebar
+* Add: Custom Header and Video
+* Add: Category Color
+* Add: Blog/Archive Category Display
+* Add: Read More Text on Blog/Acrhive Page
+* Add: Single Category Display
+* Add: Header Date Format
+* Add: Related Post form Category or Tag
+* Add: Slider Side Title Length
+* Add: Page Builder by site origin
+* Update : Customizer experience
+* Fix: Jetpack infinite scroll
+* Fix: Menu Background if there are many menus
+* Fix: Reset Customizer
+
+= 1.4.1 - Dec 29 2016 =
+* Add: WooCommerce plugin compatible
+
+
+= 1.4.0 - Dec 08 2016 =
+* Add: Option to show/hide front page content
+* Add: Random Post
+* Add: Sticky Sidebar
+* Add: Multiple Logo Position
+* Add: Multiple Advertisement Position
+* Add: Image Hover effect on Blog
+* Add: Image size on Blog
+* Add: Image position on Blog
+* Add: Image size on Single
+* Add: Image position on Single
+* Add: Widget Image Size Selection
+* Update: Breaking News Options
+* Update: Header Advertisement Enable/Disable
+* Update: Different Search Type on Menu
+* Update: Slider Right Section
+* Update: Sidebar priority changed
+* Update: Blog archive image selection
+* Update: Single image selection
+* Update: Upgrade to pro
+* Update: Markup CSS
+* Update: Typography and Fonts
+* Update: Default Color
+* Update: Tested upto 4.7
+* Fix: Minor bug
+
+= 1.3.3 - July 15 2016 =
+* Update: Language file
+* Fix: Minor bug
+
+= 1.3.2 - July 12 2016 =
+* Update: Date localization
+
+= 1.3.1 - May 29 2016 =
+* Add: Google plus social icon
+* Check: Compatibility with WP 4.5.2
+
+= 1.3.0 - Apr 24 2016 =
+* Add: Support Custom Logo in WP >= 4.5
+* Check: Compatibility with WP 4.5
+* Fix: Minor bug fixes
+* Update: Minimum required WP 4.3
+
+= 1.2.3 - Apr 11 2016 =
+* Fix: Custom CSS
+
+= 1.2.2 - Mar 29 2016 =
+* Fix: Breadcrumbs issue
+
+= 1.2.1 - Mar 20 2016 =
+* Fix: Logo and Banner Add Top same level
+
+= 1.2.0 - Mar 09 2016 =
+* Added: Instagram and Pinterest Social Icon
+
+= 1.1.9 - Feb 27 2016 =
+* Fix: Single post image in different devices
+
+= 1.1.8 - Feb 13 2016 =
+* Fix: Many level submenu
+
+= 1.1.7 - Feb 11 2016 =
+* Added: image url added
+* Fix: word-break issue
+* Update: sanitize function for image changed
+
+= 1.1.6 - Feb 08 2016 =
+* Fix: Everything pointed by reviewer
+
+= 1.1.5 - Jan 01 2016 =
+* Update: Follow front page vs home guidelines
+
+= 1.1.4 - Dec 30 2015 =
+* Fix: Copyright text
+
+= 1.1.3 - Dec 29 2015 =
+* Fix: Link in description
+
+= 1.1.2 - Dec 29 2015 =
+* Fix: Minor bug fixes
+* Update: Image size reduced
+
+= 1.1.1 - Dec 23 2015 =
+* Fix: CSS tweaks
+
+= 1.1.0 - Dec 11 2015 =
+* Update: Extend theme options
+
+= 1.0.1 - Oct 17 2015 =
+* Added: Documentation added.
+* Added: New screenshot added.
+
+= 1.0.0 - Oct 10 2015 =
+* Initial release

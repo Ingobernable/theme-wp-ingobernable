@@ -1,0 +1,71 @@
+.wdwt-admin-notice {
+  background: #fff;
+  border: 4px;
+  display: block;
+  min-height: 68px;
+  padding: 10px 40px 10px 125px;
+  position: relative;
+}
+.wdwt-admin-notice a {
+  color: #10738B;
+}
+.wdwt-notice-logo {
+  border: 1px solid #ccc;
+  clear: both;
+  content: "";
+  display: block;
+  background-image: url("../../screenshot.png");
+  background-size: 108px auto;
+  background-repeat: no-repeat;
+  background-position: 0 0;
+  height: 81px;
+  width: 108px;
+  position: absolute;
+  top: 17px;
+  /* bottom: 0; */
+  left: 5px;
+}
+.wdwt-admin-notice > .dashicons {
+  color: #424242;
+  position: absolute;
+  right: 20px;
+  top: 40%;
+}
+.wdwt-notice-title {
+  font-size: 24px;
+  margin: 0;
+}
+.wdwt-notice-body {
+  font-weight: normal;
+  margin: 5px 0;
+}
+.wdwt-notice-body:after {
+  clear: both;
+  content: "";
+  display: block;
+}
+.wdwt-notice-body li {
+  float: left;
+  margin-right: 20px;
+}
+.wdwt-notice-body .dashicons {
+  font-size: 17px;
+}
+.wdwt-blue {
+  color: #10738B;
+}
+
+.appearance_page_best-magazine #setting-error-tgmpa,
+.appearance_page_news-magazine #setting-error-tgmpa,
+.appearance_page_mediamag #setting-error-tgmpa,
+.appearance_page_exclusive #setting-error-tgmpa,
+.appearance_page_expert #setting-error-tgmpa,
+.appearance_page_sauron #setting-error-tgmpa,
+.appearance_page_business-elite #setting-error-tgmpa,
+.appearance_page_business-world #setting-error-tgmpa,
+.appearance_page_weddings #setting-error-tgmpa,
+.appearance_page_wedding-style #setting-error-tgmpa,
+.appearance_page_portfolio-gallery #setting-error-tgmpa
+{
+  margin-left:0;
+}

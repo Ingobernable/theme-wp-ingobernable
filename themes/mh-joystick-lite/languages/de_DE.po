@@ -1,0 +1,531 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MH Joystick lite v1.0.9\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2016-10-05 12:07+0200\n"
+"Last-Translator: Michael <info@mhthemes.com>\n"
+"Language-Team: \n"
+"Language: de\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;__:1;"
+"_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;_x:1,2c;"
+"_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;esc_attr__:1;"
+"esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;esc_html_x:1,2c;"
+"comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Loco-Target-Locale: de_DE\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: ../includes/mh-customizer.php:51
+msgid "MH Themes Showcase"
+msgstr "MH Themes Showcase"
+
+#. Name of the template
+msgid "Full-Width"
+msgstr "Full-Width"
+
+#. Name of the template
+msgid "Homepage"
+msgstr "Homepage"
+
+#. Name of the theme
+msgid "MH Joystick lite"
+msgstr "MH Joystick lite"
+
+#. Theme URI of the theme
+msgid "http://www.mhthemes.com/themes/mh/joystick-lite/"
+msgstr "http://www.mhthemes.com/themes/mh/joystick-lite/"
+
+#. Description of the theme
+msgid ""
+"MH Joystick lite is an attractive and responsive games magazine WordPress theme "
+"which is also perfect for any other content genre. This stunning magazine theme "
+"for WordPress will transform your mundane blog into a bright and vibrant online "
+"magazine that’s suitable for all modern browsers and mobile devices."
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://www.mhthemes.com/"
+msgstr "http://www.mhthemes.com/"
+
+# @ mh-joystick-lite
+#: ../comments.php:11
+#, php-format
+msgid "Readers Comments (1)"
+msgid_plural "Readers Comments (%1$s)"
+msgstr[0] "Kommentare (1)"
+msgstr[1] "Kommentare (%1$s)"
+
+# @ mh-joystick-lite
+#: ../comments.php:20 ../includes/mh-custom-functions.php:160 ../includes/mh-
+#: custom-functions.php:222
+msgid "&laquo;"
+msgstr "&laquo;"
+
+# @ mh-joystick-lite
+#: ../comments.php:20 ../includes/mh-custom-functions.php:161 ../includes/mh-
+#: custom-functions.php:222
+msgid "&raquo;"
+msgstr "&raquo;"
+
+# @ mh-joystick-lite
+#: ../comments.php:27
+#, php-format
+msgid "Trackbacks & Pingbacks (%s)"
+msgstr "Trackbacks & Pingbacks (%s)"
+
+# @ mh-joystick-lite
+#: ../comments.php:40
+msgid "Comments are closed."
+msgstr "Kommentare sind deaktiviert."
+
+# @ mh-joystick-lite
+#: ../comments.php:46
+msgid "Be the first to comment"
+msgstr "Kommentar hinterlassen"
+
+# @ mh-joystick-lite
+#: ../comments.php:52
+msgid "Leave a comment"
+msgstr "Hinterlasse einen Kommentar"
+
+# @ mh-joystick-lite
+#: ../comments.php:53
+msgid "Your email address will not be published."
+msgstr "E-Mail Adresse wird nicht ver&ouml;ffentlicht."
+
+# @ mh-joystick-lite
+#: ../comments.php:55
+msgid "Comment"
+msgstr "Kommentar"
+
+# @ mh-joystick-lite
+#: ../content-none.php:4
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with different "
+"keywords."
+msgstr ""
+"Es konnten keine passenden Inhalte gefunden werden. Bitte versuchen Sie es "
+"erneut mit einem anderen Suchbegriff."
+
+# @ mh-joystick-lite
+#: ../content-none.php:6
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for, perhaps searching "
+"can help?"
+msgstr ""
+"Es konnten keine passenden Inhalte gefunden werden. Vielleicht kann Ihnen die "
+"Suchfunktion weiterhelfen."
+
+# @ mh-joystick-lite
+#: ../footer.php:6
+#, php-format
+msgid "Copyright &copy; %1$s %2$s"
+msgstr "Copyright &copy; %1$s %2$s"
+
+# @ mh-joystick-lite
+#: ../footer.php:9
+#, php-format
+msgid "MH Joystick lite by %s"
+msgstr "MH Joystick lite by %s"
+
+# @ mh-joystick-lite
+#: ../footer.php:9
+msgid "Premium Magazine WordPress Themes"
+msgstr "Premium Magazine WordPress Themes"
+
+# @ mh-joystick-lite
+#: ../footer.php:9
+msgid "MH Themes"
+msgstr "MH Themes"
+
+# @ mh-joystick-lite
+#: ../functions.php:35
+msgid "Main Navigation"
+msgstr "Hauptnavigation"
+
+# @ mh-joystick-lite
+#: ../functions.php:85
+msgid "Global - Sidebar"
+msgstr "Sidebar"
+
+# @ mh-joystick-lite
+#: ../functions.php:85
+msgid ""
+"Sidebar widgets located on every page except the homepage, suitable for all "
+"widgets."
+msgstr "Sidebar auf Artikeln, Seiten und Archiven."
+
+# @ mh-joystick-lite
+#: ../functions.php:86
+msgid "Home 1 - Main Column"
+msgstr "Home 1"
+
+# @ mh-joystick-lite
+#: ../functions.php:86
+msgid ""
+"Main column widgets located on homepage only, suitable for widgets with the [MH] "
+"prefix and text widgets."
+msgstr "Widgets im Contentbereich auf der Startseite."
+
+# @ mh-joystick-lite
+#: ../functions.php:87
+msgid "Home 2 - Sidebar"
+msgstr "Home 2 - Sidebar"
+
+# @ mh-joystick-lite
+#: ../functions.php:87
+msgid "Sidebar widgets located on homepage only, suitable for all widgets."
+msgstr "Sidebar auf der Startseite."
+
+# @ mh-joystick-lite
+#: ../includes/mh-custom-functions.php:50
+#, php-format
+msgctxt "post author"
+msgid "Articles by %s"
+msgstr "Artikel von %s"
+
+# @ mh-joystick-lite
+#: ../includes/mh-custom-functions.php:62
+msgid "Archives"
+msgstr "Archive"
+
+# @ mh-joystick-lite
+#: ../includes/mh-custom-functions.php:68
+msgid "Page not found (404 Error)"
+msgstr "Seite nicht gefunden (404 Error)"
+
+# @ mh-joystick-lite
+#: ../includes/mh-custom-functions.php:70
+#, php-format
+msgid "Search Results: %s"
+msgstr "Suchergebnisse f&uuml;r %s"
+
+# @ mh-joystick-lite
+#: ../includes/mh-custom-functions.php:84
+msgid "Topics"
+msgstr "Themen"
+
+# @ mh-joystick-lite
+#: ../includes/mh-custom-functions.php:95
+#, php-format
+msgctxt "comments number"
+msgid "1 Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "1 Kommentar"
+msgstr[1] "%1$s Kommentare"
+
+# @ mh-joystick-lite
+#: ../includes/mh-custom-functions.php:105
+msgid "Categories"
+msgstr "Kategorien"
+
+# @ mh-joystick-lite
+#: ../includes/mh-custom-functions.php:194
+msgid "Back to post"
+msgstr "Zur&uuml;ck zum Artikel"
+
+# @ mh-joystick-lite
+#: ../includes/mh-custom-functions.php:196
+msgid "Previous image"
+msgstr "Vorheriges Bild"
+
+# @ mh-joystick-lite
+#: ../includes/mh-custom-functions.php:199
+msgid "Previous post"
+msgstr "Vorheriger Artikel"
+
+# @ mh-joystick-lite
+#: ../includes/mh-custom-functions.php:206
+msgid "Next image"
+msgstr "N&auml;chstes Bild"
+
+# @ mh-joystick-lite
+#: ../includes/mh-custom-functions.php:208
+msgid "Next post"
+msgstr "N&auml;chster Artikel"
+
+# @ mh-joystick-lite
+#: ../includes/mh-custom-functions.php:239
+#, php-format
+msgid "%1$s @ %2$s"
+msgstr "%1$s @ %2$s"
+
+# @ mh-joystick-lite
+#: ../includes/mh-custom-functions.php:243
+msgid "Your comment is awaiting moderation."
+msgstr "Der Kommentar wartet auf Freischaltung."
+
+# @ mh-joystick-lite
+#: ../includes/mh-custom-functions.php:254
+msgid "Edit"
+msgstr "Bearbeiten"
+
+# @ mh-joystick-lite
+#: ../includes/mh-custom-functions.php:269
+msgid "Name "
+msgstr "Name "
+
+# @ mh-joystick-lite
+#: ../includes/mh-custom-functions.php:270
+msgid "Email "
+msgstr "E-Mail"
+
+# @ mh-joystick-lite
+#: ../includes/mh-custom-functions.php:271
+msgid "Website"
+msgstr "Webseite"
+
+# @ mh-joystick-lite
+#: ../includes/mh-custom-functions.php:286
+msgid "About the author"
+msgstr "&Uuml;ber den Autor"
+
+# @ mh-joystick-lite
+#: ../includes/mh-custom-functions.php:305
+#, php-format
+msgid "More Posts (%s)"
+msgstr "Weitere Artikel (%s)"
+
+# @ mh-joystick-lite
+#: ../includes/mh-customizer.php:13
+msgid "MH Joystick Pro"
+msgstr "MH Joystick Pro"
+
+# @ mh-joystick-lite
+#: ../includes/mh-customizer.php:16
+msgid ""
+"If you like the free version of this theme, you will LOVE the full version of MH "
+"Joystick which includes unique custom widgets, additional features and more "
+"useful options to customize your website."
+msgstr ""
+"Falls Sie dieses kostenlose Theme m&ouml;gen, so werden Sie die Vollversion von "
+"MH Joystick mit den zus&auml;tzlichen Custom Widgets, Features und Optionen "
+"lieben, um damit Ihre Webseite flexibel aufzusetzen."
+
+# @ mh-joystick-lite
+#: ../includes/mh-customizer.php:19
+msgid "Additional Features:"
+msgstr "Zus&auml;tzliche Features:"
+
+# @ mh-joystick-lite
+#: ../includes/mh-customizer.php:23
+msgid "Options to modify color scheme"
+msgstr "Optionen um das Farbschema anzupassen"
+
+# @ mh-joystick-lite
+#: ../includes/mh-customizer.php:26
+msgid "Typography options"
+msgstr "Typographie Optionen"
+
+# @ mh-joystick-lite
+#: ../includes/mh-customizer.php:29
+msgid "Several additional widget areas"
+msgstr "Zus&auml;tzliche Widgetbereiche"
+
+# @ mh-joystick-lite
+#: ../includes/mh-customizer.php:32
+msgid "Additional custom widgets"
+msgstr "Zus&auml;tzliche Custom Widgets"
+
+# @ mh-joystick-lite
+#: ../includes/mh-customizer.php:35
+msgid "Additional custom menu slots"
+msgstr "Zus&auml;tzliche Men&uuml;s"
+
+# @ mh-joystick-lite
+#: ../includes/mh-customizer.php:38
+msgid "Social buttons, related articles, ..."
+msgstr "Social Buttons, &Auml;hnliche Artikel, ..."
+
+# @ mh-joystick-lite
+#: ../includes/mh-customizer.php:41
+msgid "News ticker and many more..."
+msgstr "News Ticker und vieles mehr…"
+
+# @ mh-joystick-lite
+#: ../includes/mh-customizer.php:46
+msgid "Upgrade to MH Joystick Pro"
+msgstr "Upgrade auf MH Joystick Pro"
+
+# @ mh-joystick-lite
+#: ../includes/mh-customizer.php:56
+msgid "Theme Documentation"
+msgstr "Theme Dokumentation"
+
+# @ mh-joystick-lite
+#: ../includes/mh-customizer.php:61
+msgid "Support Forum"
+msgstr "Support Forum"
+
+# @ mh-joystick-lite
+#: ../includes/mh-customizer.php:69
+msgid "Theme Options"
+msgstr "Theme Optionen"
+
+# @ mh-joystick-lite
+#: ../includes/mh-customizer.php:73
+msgid "General"
+msgstr "Allgemein"
+
+# @ mh-joystick-lite
+#: ../includes/mh-customizer.php:74
+msgid "Layout"
+msgstr "Layout"
+
+# @ mh-joystick-lite
+#: ../includes/mh-customizer.php:75
+msgid "More Features"
+msgstr "Weitere Features"
+
+# @ mh-joystick-lite
+#: ../includes/mh-customizer.php:81 ../includes/mh-customizer.php:142
+msgid "Read More"
+msgstr "Weiterlesen"
+
+# @ mh-joystick-lite
+#: ../includes/mh-customizer.php:87
+msgid "Custom Excerpt Length in Words"
+msgstr "L&auml;nge der Textausz&uuml;ge in Worten"
+
+# @ mh-joystick-lite
+#: ../includes/mh-customizer.php:88
+msgid "Custom Excerpt More-Text"
+msgstr "Beliebiger More-Text"
+
+# @ mh-joystick-lite
+#: ../includes/mh-customizer.php:89
+msgid "Sidebar Alignment"
+msgstr "Sidebar Anordnung"
+
+# @ mh-joystick-lite
+#: ../includes/mh-customizer.php:89 ../includes/mh-customizer.php:117
+msgid "Right Sidebar"
+msgstr "Rechte Sidebar"
+
+# @ mh-joystick-lite
+#: ../includes/mh-customizer.php:89 ../includes/mh-customizer.php:118
+msgid "Left Sidebar"
+msgstr "Linke Sidebar"
+
+# @ mh-joystick-lite
+#: ../includes/mh-customizer.php:115
+msgid "Enable"
+msgstr "Aktivieren"
+
+# @ mh-joystick-lite
+#: ../includes/mh-customizer.php:116
+msgid "Disable"
+msgstr "Deaktivieren"
+
+# @ mh-joystick-lite
+#: ../includes/widgets/mh-comments.php:8
+msgctxt "widget name"
+msgid "MH Recent Comments"
+msgstr "MH Recent Comments"
+
+# @ mh-joystick-lite
+#: ../includes/widgets/mh-comments.php:11
+msgid ""
+"MH Recent Comments widget to display your recent comments including user avatars."
+msgstr ""
+"MH Recent Comments Widget um die neuesten Kommentare inklusive Avatar des "
+"Nutzers anzuzeigen."
+
+# @ mh-joystick-lite
+#: ../includes/widgets/mh-comments.php:35
+#, php-format
+msgctxt "comment widget"
+msgid "%1$s on %2$s"
+msgstr "%1$s zu %2$s"
+
+# @ mh-joystick-lite
+#: ../includes/widgets/mh-comments.php:61
+msgid "Recent Comments"
+msgstr "Neueste Kommentare"
+
+# @ mh-joystick-lite
+#: ../includes/widgets/mh-comments.php:64 ../includes/widgets/mh-custom-posts.php:
+#: 114
+msgid "Title:"
+msgstr "Titel:"
+
+# @ mh-joystick-lite
+#: ../includes/widgets/mh-comments.php:68
+msgid "Limit Comment Number:"
+msgstr "Anzahl der Kommentare:"
+
+# @ mh-joystick-lite
+#: ../includes/widgets/mh-comments.php:73
+msgid "Skip Comments (Offset):"
+msgstr "Anzahl &uuml;berspringen (Offset):"
+
+# @ mh-joystick-lite
+#: ../includes/widgets/mh-custom-posts.php:8
+msgctxt "widget name"
+msgid "MH Custom Posts [lite]"
+msgstr "MH Custom Posts [lite]"
+
+# @ mh-joystick-lite
+#: ../includes/widgets/mh-custom-posts.php:11
+msgid "Display posts including thumbnail images."
+msgstr "Artikel f&uuml;r beliebige Kategorie oder Schlagwort anzeigen."
+
+# @ mh-joystick-lite
+#: ../includes/widgets/mh-custom-posts.php:118 ../includes/widgets/mh-slider.php:65
+msgid "Select a Category:"
+msgstr "Kategorie w&auml;hlen:"
+
+# @ mh-joystick-lite
+#: ../includes/widgets/mh-custom-posts.php:120 ../includes/widgets/mh-slider.php:67
+msgid "All"
+msgstr "Alle"
+
+# @ mh-joystick-lite
+#: ../includes/widgets/mh-custom-posts.php:126 ../includes/widgets/mh-slider.php:73
+msgid "Select a category to display posts from."
+msgstr "Kategorie der gew&uuml;nschten Artikel ausw&auml;hlen."
+
+# @ mh-joystick-lite
+#: ../includes/widgets/mh-custom-posts.php:129 ../includes/widgets/mh-slider.php:76
+msgid "Post Count (max. 50):"
+msgstr "Anzahl Artikel (max. 50):"
+
+# @ mh-joystick-lite
+#: ../includes/widgets/mh-custom-posts.php:133 ../includes/widgets/mh-slider.php:80
+msgid "Skip Posts (max. 50):"
+msgstr "Anzahl &uuml;berspringen (max. 50):"
+
+# @ mh-joystick-lite
+#: ../includes/widgets/mh-custom-posts.php:137 ../includes/widgets/mh-slider.php:84
+msgid "Info:"
+msgstr "Info:"
+
+# @ mh-joystick-lite
+#: ../includes/widgets/mh-custom-posts.php:137 ../includes/widgets/mh-slider.php:84
+msgid ""
+"This is the lite version of this widget with basic features. If you need more "
+"advanced features and options, you can upgrade to the premium version of this "
+"theme."
+msgstr ""
+"Dies ist die lite Version dieses Widgets mit abgespecktem Funktionsumfang. Falls "
+"Sie erweiterte Optionen und einen gr&ouml;&szlig;eren Funktionsumfang ben&ouml;"
+"tigen, so k&ouml;nnen Sie auf die Premium Version upgraden."
+
+# @ mh-joystick-lite
+#: ../includes/widgets/mh-slider.php:8
+msgctxt "widget name"
+msgid "MH Slider [lite]"
+msgstr "MH Slider [lite]"
+
+# @ mh-joystick-lite
+#: ../includes/widgets/mh-slider.php:11
+msgid "Display any of your posts in a responsive content slider."
+msgstr "Sliderwidget f&uuml;r die Homepage."

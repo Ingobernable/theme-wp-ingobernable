@@ -1,0 +1,4 @@
+/***** Widgets Custom CSS *****/
+
+#widget-list [id*='_mh_'] .widget-top, #widget-list [id*='_mh_'] h3 { background: #0074a2; color: #fff; }
+.widget-separator { font-size: 18px; font-weight: 600; border-bottom: 2px solid #ddd; }

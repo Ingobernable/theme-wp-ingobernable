@@ -1,0 +1,318 @@
+/*
+ * ThemeZee Widget Bundle CSS
+ * https://themezee.com/plugins/widget-bundle/
+ *
+ * Copyright(C) 2015, ThemeZee.com - support@themezee.com
+ * License: GPL v3
+ * License URI: http://www.gnu.org/licenses/gpl-3.0.html
+ *
+ * @package Leeway
+ */
+
+ 
+/*--------------------------------------------------------------
+# General Styles
+---------------------------------------------------------------- */
+
+/* Clearing Floats */
+.tzwb-clearfix:before, 
+.tzwb-clearfix:after {  
+	content: " ";
+	display: table;  
+}  
+
+.tzwb-clearfix:after {  
+	clear: both;
+}  
+
+.tzwb-clearfix {
+    *zoom: 1; /* For IE 6/7 only */  
+}
+
+
+/*--------------------------------------------------------------
+# Facebook Like Box Widget
+---------------------------------------------------------------- */
+.tzwb-facebook-likebox .tzwb-content {
+	overflow: hidden;
+}
+
+
+/*--------------------------------------------------------------
+# Recent Posts Widget
+---------------------------------------------------------------- */
+.tzwb-posts-list li {
+	list-style: none;
+	margin: 0 0 0.5em 0;
+	overflow: auto;
+}
+
+.tzwb-posts-list .tzwb-excerpt p {
+	margin: 0;
+	padding: 0;
+}
+
+.tzwb-posts-list .wp-post-image {
+	float: left;
+	margin: 0.3em 0.8em 0.5em 0;
+	max-width: 100px;
+	height: auto;
+}
+
+.tzwb-posts-list .tzwb-entry-meta {
+	margin: 0.2em 0 0;
+	padding: 0;
+	font-size: 0.8em;
+	color: #222;
+	background: none;
+}
+
+.tzwb-posts-list  .tzwb-entry-meta span {
+	margin-right: 0.4em;
+}
+
+.tzwb-posts-list .tzwb-entry-meta .tzwb-meta-date,
+.tzwb-posts-list .tzwb-entry-meta .tzwb-meta-author,
+.tzwb-posts-list .tzwb-entry-meta .tzwb-meta-comments {
+	padding: 0;
+	background: none;
+	color: #222;
+}
+
+.tzwb-posts-list .tzwb-entry-meta span:before {
+	display: inline-block;
+	-webkit-font-smoothing: antialiased;
+	font: normal 16px 'Genericons';
+	vertical-align: top;
+	color: #222;
+	margin: 0.25em 0 0 0;
+}
+
+.tzwb-posts-list .tzwb-entry-meta .tzwb-meta-date:before{
+	content: '\f307';
+	margin-right: 0.2em;
+}
+
+.tzwb-posts-list .tzwb-entry-meta .tzwb-meta-author:before{
+	content: '\f304';
+}
+
+.tzwb-posts-list .tzwb-entry-meta .tzwb-meta-comments:before{
+	content: '\f300';
+}
+
+
+/*--------------------------------------------------------------
+# Recent Comments Widget
+---------------------------------------------------------------- */
+.tzwb-comments-list {
+	margin: 0;
+	padding: 0;
+}
+
+.tzwb-comments-list li {
+	list-style: none;
+	margin: 0 0 1em 0;
+	overflow: auto;
+}
+
+.tzwb-comments-list .avatar {
+	float: left;
+	margin: 0.3em 0.8em 0.4em 0;
+}
+
+.tzwb-comments-list .tzwb-comment-content {
+	font-style: italic;
+}
+
+.tzwb-comments-list .tzwb-comment-date {
+	margin: 0.2em 0 0;
+	padding: 0;
+	font-size: 0.8em;
+	color: #222;
+}
+
+.tzwb-comments-list .tzwb-comment-date:before {
+	display: inline-block;
+	-webkit-font-smoothing: antialiased;
+	font: normal 16px 'Genericons';
+	vertical-align: top;
+	color: #222;
+	margin: 0.2em 0.2em 0 0;
+	content: '\f307';
+}
+
+
+/*--------------------------------------------------------------
+# Tabbed Content Widget
+---------------------------------------------------------------- */
+.tzwb-tabbed-content .widgettitle {
+	margin-bottom: 0.8em;
+}
+
+.tzwb-tabbed-content .tzwb-tabnavi-wrap {
+	margin: -0.8em -0.8em 0;
+	padding: 0;
+	overflow: auto;
+	list-style: none;
+	background: #ddd;
+}
+
+.tzwb-tabbed-content .tzwb-tabnavi {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	list-style-position: outside;
+	position: relative;
+}
+
+.tzwb-tabbed-content .tzwb-tabnavi li {
+	float: left;
+	list-style: none;
+	position: relative;
+	margin: 0;
+	padding: 0;
+}
+
+.tzwb-tabbed-content .tzwb-tabnavi li a {
+	display: block;
+	margin: 0;
+	padding: 0.6em 0.8em;
+	font-size: 0.9em;
+	font-weight: bold;
+	text-decoration: none;
+	background: #ddd;
+}
+
+.tzwb-tabbed-content .tzwb-tabnavi li a:link, 
+.tzwb-tabbed-content .tzwb-tabnavi li a:visited  {
+	color: #222;
+}
+
+.tzwb-tabbed-content .tzwb-tabnavi li a:hover, 
+.tzwb-tabbed-content .tzwb-tabnavi li a:active {
+	background: #eee;
+	text-decoration: none;
+}
+
+.tzwb-tabbed-content .tzwb-tabnavi li a.current-tab {
+	background: #eee;
+}
+
+.tzwb-tabbed-content .tzwb-tabcontent {
+	padding: 0;
+	margin: 1em 0 0 0;
+}
+
+.tzwb-tabbed-content .tzwb-tabcontent li.tzwb-has-thumbnail {
+	list-style: none;
+	margin: 0 0 0.5em 0;
+	overflow: auto;
+}
+
+.tzwb-tabbed-content .tzwb-tabcontent  li.tzwb-has-thumbnail .wp-post-image {
+	float: left;
+	margin: 0.3em 0.8em 0.5em 0;
+	max-width: 100px;
+	height: auto;
+}
+
+.tzwb-tabbed-content .tzwb-tabcontent .tzwb-comments-list li.tzwb-has-avatar {
+	list-style: none;
+	margin: 0 0 0.3em 0;
+	overflow: auto;
+}
+
+.tzwb-tabbed-content .tzwb-tabcontent .tzwb-comments-list li.tzwb-has-avatar .avatar {
+	float: left;
+	margin: 0.3em 0.8em 0.3em 0;
+}
+
+.tzwb-tabbed-content .tzwb-tabcontent ul li .tzwb-entry-meta {
+	margin: 0.2em 0;
+	padding: 0;
+	font-size: 0.8em;
+	color: #222;
+}
+
+
+/*--------------------------------------------------------------
+# Social Icons Widget
+---------------------------------------------------------------- */
+.tzwb-social-icons .tzwb-social-icons-menu {
+	list-style-type: none;
+	list-style-position: outside;
+	line-height: 1em;
+	margin: 0;
+}
+
+.tzwb-social-icons .tzwb-social-icons-menu li {
+	float: left;
+	margin: 0 3px 3px 0;
+	padding: 0;
+}
+
+.tzwb-social-icons .tzwb-social-icons-menu li a {
+	position: relative;
+	display: inline-block;
+	padding: 0.7em;
+	background: #ddd;
+	text-decoration: none;
+	color: #222;
+	line-height: 1em;
+}
+
+.tzwb-social-icons .tzwb-social-icons-menu li a:before {
+	color: #222;
+	display: inline-block;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	font-size: 24px;
+	line-height: 1;
+	font-family: 'Genericons';
+	text-decoration: inherit;
+	vertical-align: top;
+}
+
+/* Add Genericons */
+.tzwb-social-icons-menu li a:before { content: '\f408';} /* Default Icon */
+.tzwb-social-icons-menu li a[href*="codepen.io"]:before  { content: '\f216'; }
+.tzwb-social-icons-menu li a[href*="digg.com"]:before { content: '\f221'; }
+.tzwb-social-icons-menu li a[href*="dribbble.com"]:before { content: '\f201'; }
+.tzwb-social-icons-menu li a[href*="facebook.com"]:before { content: '\f204'; }
+.tzwb-social-icons-menu li a[href*="flickr.com"]:before { content: '\f211'; }
+.tzwb-social-icons-menu li a[href*="plus.google.com"]:before { content: '\f218'; }
+.tzwb-social-icons-menu li a[href*="github.com"]:before { content: '\f200'; }
+.tzwb-social-icons-menu li a[href*="instagram.com"]:before { content: '\f215'; }
+.tzwb-social-icons-menu li a[href*="linkedin.com"]:before { content: '\f207'; }
+.tzwb-social-icons-menu li a[href*="pinterest.com"]:before { content: '\f209'; }
+.tzwb-social-icons-menu li a[href*="polldaddy.com"]:before { content: '\f217'; }
+.tzwb-social-icons-menu li a[href*="getpocket.com"]:before { content: '\f224'; }
+.tzwb-social-icons-menu li a[href*="reddit.com"]:before { content: '\f222'; }
+.tzwb-social-icons-menu li a[href*="spotify.com"]:before { content: '\f515'; }
+.tzwb-social-icons-menu li a[href*="skype.com"]:before,
+.tzwb-social-icons-menu li a[href*="skype:"]:before { content: '\f220'; }
+.tzwb-social-icons-menu li a[href*="stumbleupon.com"]:before { content: '\f223'; }
+.tzwb-social-icons-menu li a[href*="tumblr.com"]:before { content: '\f214'; }
+.tzwb-social-icons-menu li a[href*="twitter.com"]:before { content: '\f202'; }
+.tzwb-social-icons-menu li a[href*="twitch.tv"]:before { content: '\f516'; }
+.tzwb-social-icons-menu li a[href*="vimeo.com"]:before  { content: '\f212'; }
+.tzwb-social-icons-menu li a[href*="wordpress.org"]:before,
+.tzwb-social-icons-menu li a[href*="wordpress.com"]:before { content: '\f205'; }
+.tzwb-social-icons-menu li a[href*="youtube.com"]:before { content: '\f213'; }
+.tzwb-social-icons-menu li a[href*="/feed"]:before,
+.tzwb-social-icons-menu li a[href*="/feed/"]:before,
+.tzwb-social-icons-menu li a[href*="?feed=rss2"]:before,
+.tzwb-social-icons-menu li a[href*="feedburner.google.com"]:before,
+.tzwb-social-icons-menu li a[href*="feedburner.com"]:before { content: '\f413'; }
+.tzwb-social-icons-menu li a[href*="/newsletter"]:before,
+.tzwb-social-icons-menu li a[href*="mailto:"]:before{ content: '\f410'; }
+
+.tzwb-social-icons-menu li a:hover {
+	text-decoration: none;
+	background: #ccc;
+}
+
+.tzwb-social-icons-menu li a .screen-reader-text {
+	display: none;
+}

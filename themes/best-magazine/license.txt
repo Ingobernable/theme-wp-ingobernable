@@ -1,0 +1,23 @@
+=== Best Magazine ===
+Theme URI: https://web-dorado.com/wordpress-themes/best-magazine.html
+Author: web-dorado.com
+Author URI: https://web-dorado.com/
+
+License: GNU General Public License v3 or later
+License URI: http://www.gnu.org/licenses/gpl-3.0.en.html
+
+== Attributions ==
+
+=Images=
+All images used in Best Magazine theme are GPL Compatible, including demo images, images in the slider and Screenshots.
+Some of them are taken from free public domain image source http://pixabay.com/ and is Licensed under CC0 licenses.
+slide_1.jpg - https://pixabay.com/en/football-american-running-back-560459/
+slide_2.jpg - https://pixabay.com/en/rocket-launch-rocket-take-off-nasa-67643/
+The others are created by webdorado.
+
+=Font Open Sans=
+Copyright 2010-2011, Google Corporation
+License: Apache License Version 2.0
+
+=Font Awesome by Dave Gandy=
+License: http://fortawesome.github.io/Font-Awesome/license/

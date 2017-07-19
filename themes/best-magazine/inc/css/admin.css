@@ -1,0 +1,671 @@
+.clear {
+  clear: both !important;
+}
+
+
+
+a:focus {
+  box-shadow: none !important;
+}
+
+/*-------------------------------------*/
+/*------------LEFT_PART----------------*/
+/*-------------------------------------*/
+
+.wdwt_nav-tab-wrapper {
+  padding: 5px 0 0 !important;
+  border: 0;
+}
+
+.wdwt_nav-tab-wrapper ul {
+  float: left;
+  width: 15%;
+  margin: 0;
+  overflow: hidden;
+
+}
+
+.wdwt_nav-tab-wrapper ul li {
+  border: 1px solid #ccc;
+  border-bottom: 3px solid #ccc;
+  transition-duration: 1s;
+  margin-bottom: 5%;
+  list-style: none;
+}
+
+.wdwt_nav-tab-wrapper ul li:hover {
+  border-bottom: 3px solid rgb(0, 115, 170);
+  transition-duration: 1s;
+  transition-delay: 0s;
+}
+
+
+.wdwt_nav-tab-wrapper ul li a.nav-tab {
+  background-color: #e4e4e4 !important;
+  padding: 16px 16px !important;
+  display: block !important;
+  font-size: 15px;
+  font-weight: bold;
+  margin: 0;
+  border: 0;
+  float: none;
+  white-space: normal;
+}
+
+.wdwt_nav-tab-wrapper ul li a.nav-tab-active,
+.wdwt_nav-tab-wrapper ul li a.nav-tab:hover {
+  color: rgb(0, 115, 170) !important;
+}
+
+/*free version*/
+
+.free .wdwt_nav-tab-wrapper ul {
+  width: 100%;
+}
+
+.free .wdwt_nav-tab-wrapper ul li {
+  display: inline;
+  float: left;
+  padding: 10px 10px;
+  background-color: #e4e4e4;
+  margin: 0 5px;
+  width: 96%;
+  text-align: center;
+}
+
+.free .wdwt_nav-tab-wrapper ul li a.nav-tab {
+  padding: 0px !important;
+}
+
+.free .no_option_content,
+.free .user_manual {
+  float: left !important;
+}
+
+.free #wdwt_theme_support.no_option_content {
+  float: none !important;
+  text-align: center;
+  width: 100%;
+}
+
+/*-------------------------------------*/
+/*------------RIGHT_PART---------------*/
+/*-------------------------------------*/
+
+/*--- USER_MANUAL ---*/
+.wrap .user_manual {
+  padding: 1.5% 2.5%;
+  width: 80%;
+  text-align: left;
+  float: right;
+}
+
+.wrap .user_manual .user_more {
+  text-decoration: none;
+  color: #007AAF;
+  outline: none;
+}
+
+.wrap .user_manual .user_title {
+  font-weight: 700;
+  font-size: 1.5em;
+}
+
+.wrap .user_manual span:first-child {
+  width: 70%;
+}
+
+.user_manual img {
+  margin: 5px 0;
+}
+
+.wrap .user_manual + .updated {
+  width: 80%;
+  float: right;
+  border-left: 5px solid rgb(0, 122, 175) !important;
+}
+
+/*---------------------------*/
+#main_seo_page.wrap, #main_layout_editor_page.wrap,
+#main_general_page.wrap, #main_homepage_page.wrap,
+#main_typography_page.wrap,
+#main_slider_page.wrap,
+#main_lightbox_page.wrap,
+#main_integration_page.wrap, #main_color_control_page.wrap,
+#main_licensing_page.wrap,
+#main_install_sample_data_page.wrap, #main_licensing_page.wrap
+#main_themes_updates_page.wrap {
+  margin: 0 !important;
+}
+
+#main_seo_page.wrap form,
+#main_layout_editor_page.wrap form,
+#main_general_page.wrap form,
+#main_homepage_page.wrap form,
+#main_typography_page.wrap form,
+#main_slider_page.wrap form,
+#main_lightbox_page.wrap form,
+#main_integration_page.wrap form,
+#main_color_control_page.wrap form,
+#main_install_sample_data_page.wrap form, #main_licensing_page.wrap form,
+
++
+#main_themes_updates_page .wrap {
+  width: 82%;
+}
+
+.wrap form h3,
+.wrap form h2 {
+  font-size: 2em;
+  padding: 0.5% 1%;
+  cursor: default !important;
+  color: rgb(111, 111, 111) !important;
+}
+
+.wrap .form-table {
+  width: 98% !important;
+  margin: 0 auto;
+}
+
+.wrap .form-table th {
+  font-size: 0.9em;
+  width: 20% !important;
+  padding: 3% 0% !important;
+  text-transform: uppercase;
+  line-height: 20px !important;
+}
+
+.wdwt_meta th {
+  font-size: 1em;
+  width: 20% !important;
+  padding: 3% 0% !important;
+  text-transform: uppercase;
+  line-height: 20px !important;
+}
+
+.wdwt_param {
+  margin-right: 1.5%;
+  float: left;
+}
+
+.wdwt_param select option:disabled {
+  background-color: #dddddd;
+  color: #666666;
+}
+
+.block {
+  position: relative;
+}
+
+.description {
+  display: inline;
+  padding-left: 5px;
+  font-size: 1em !important;
+
+}
+
+.down_buttons {
+  margin: 3% 1%;
+}
+
+.down_buttons input {
+  font-size: 1.3em !important;
+}
+
+.down_buttons .button-primary, .down_buttons .button-secondary {
+
+  font-weight: 800;
+  height: 60px !important;
+  font-size: 1.5em !important;
+  margin-right: 1% !important;
+}
+
+/*featured plugin, licensing etc*/
+.wrap .no_option_content {
+  float: right;
+  width: 85%;
+
+}
+
+/*
+ Semantic buttons
+*/
+
+.wdwt_btn_green {
+  background-color: #00cc00 !important;
+}
+
+.wdwt_btn_red {
+  background-color: #ff6666 !important;
+}
+
+.wdwt_btn_blue {
+  background-color: #00A0D2 !important;
+}
+
+/*----------------*//*----------------*//*----------------*//*----------------*//*----------------*/
+
+/*--------------------*/
+/*----- LAYOUTS ------*/
+/*--------------------*/
+.wrap .form-table .sprite_layouts,
+.wdwt_meta .sprite_layouts {
+  float: left;
+  width: 72px;
+}
+
+.wrap .form-table .sprite_layouts div,
+.wdwt_meta .sprite_layouts div {
+  width: 65px !important;
+  height: 49px !important;
+  margin-bottom: 2%;
+}
+
+#main_typography_page .wdwt_param select {
+  margin-top: -7% !important;
+}
+
+#main_typography_page .font_preview {
+  width: 100%;
+  font-size: 15px;
+}
+
+#main_typography_page .font_preview_wrap {
+  clear: both;
+}
+
+/*-----------------------*/
+/*------- SLIDER --------*/
+/*-----------------------*/
+#main_slider_page th {
+  width: 0 !important;
+}
+
+.wdwt_slide {
+  border-bottom: 2px solid #D1D1D1;
+  margin-bottom: 5%;
+}
+
+.wdwt_slide .slide-from-base_url .slide_but_up,
+#main_slider_page .upload-button,
+#main_typography_page .button {
+  border: 1px solid #0073aa !important;
+  background: #00a0d2 !important;
+  color: #fff !important;
+  padding: 1% !important;
+}
+
+.wdwt_slide .slide-from-base_url .slide_but_rem {
+  border: 1px solid #ccc !important;
+  background: #f7f7f7;
+  color: #555 !important;
+  padding: 1% !important;
+}
+
+.slider_head_remove-image {
+  margin-top: 20px !important;
+  background-color: #ff6666 !important;
+}
+
+/*----------------------------*/
+/*------- COLOR_CONTOL -------*/
+/*----------------------------*/
+
+#main_color_control_page #wdwt_wrap_colors_active {
+  width: 100%;
+}
+
+#main_color_control_page .wdwt_float {
+  padding: 1% 0% 3%;
+  margin-right: 2%;
+  float: left;
+  width: 45%;
+}
+
+/*.wp-picker-input-wrap input[type="text"]{ background-color: #fff !important;}*/
+
+.wp-picker-holder {
+  position: absolute;
+  z-index: 2;
+}
+
+#main_color_control_page input[type="button"] {
+  background: #CCCCCC !important;
+  display: inline-block;
+  border: none !important;
+  padding: 0 15px !important;
+  color: white !important;
+  line-height: 0px !important;
+  font-weight: bold;
+  margin-left: 4px;
+}
+
+.wp-color-result {
+  height: 22px;
+}
+
+/*--------------------------------*/
+/*------- FEATURED PLUGINS -------*/
+/*--------------------------------*/
+#tgmpa-plugins .column-thumb {
+  width: 10%;
+}
+
+#tgmpa-plugins .column-description {
+  width: 35%;
+  display: table-cell;
+}
+
+#tgmpa-plugins .column-version {
+  width: 15%;
+}
+
+.wdwt_plugin_thumb {
+  width: 80px;
+  height: auto;
+}
+
+/*-----------------------------------*/
+/*------- INSTALL SIMPLE DATE -------*/
+/*-----------------------------------*/
+#main_install_page {
+  width: 82%;
+  float: right;
+  padding: 3% 0%;
+}
+
+#main_install_page #install_remove {
+  margin-top: 40px;
+}
+
+#main_install_page #install_remove .button {
+  display: initial !important;
+  font-size: 16px !important;
+  color: white !important;
+  font-weight: bold;
+  margin: 0px !important;
+  padding: 2% !important;
+  margin-right: 2% !important;
+  background-image: none !important;
+}
+
+
+#installed_date_list {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: -30px;
+  overflow: auto;
+}
+
+#installed_date_list_wrap {
+  height: 400px;
+  overflow: hidden;
+  position: relative;
+  margin-top: 6%;
+}
+
+#installed_date_list_wrap #installed_date_list p {
+  font-size: 1.3em;
+}
+
+/*-------------------------*/
+/*------- LICENSING -------*/
+/*-------------------------*/
+
+#main_licensing_page .no_option_content{
+  text-align: center;
+}
+
+#main_licensing_page .no_option_content p {
+  font-size: 1.2em;
+  padding: 8px 4%;
+}
+
+#main_licensing_page .no_option_content .data-bordered th {
+  background-color: #106EA2 !important;
+  font: bold 0.85em;
+  font-size: 1.8em !important;
+  color: #ffffff;
+}
+
+#main_licensing_page .no_option_content .data-bordered th,
+#main_licensing_page .no_option_content .data-bordered td {
+  background-color: #fff;
+  border: 1px solid #b4b4b4;
+  padding: 15px 19px;
+  font-size: 1.2em;
+}
+
+#main_licensing_page .no_option_content .data-bordered .alt td {
+  background-color: #E5E5E5;
+}
+
+#main_licensing_page .no_option_content .data-bordered td.no,
+#main_licensing_page .no_option_content .data-bordered td.yes {
+  background-position: center center;
+  background-repeat: no-repeat;
+  text-indent: -9999px;
+  overflow: hidden;
+}
+
+#main_licensing_page .no_option_content .data-bordered td.yes {
+  background-image: url(../images/Plus.png);
+}
+
+#main_licensing_page .no_option_content .buy_theme div {
+  background: url(../images/Buy-Now.png) no-repeat 8px 5px;
+  background-size: 85%;
+  margin-left: 20%;
+  width: 140px;
+  height: 40px;
+}
+
+
+/*----------------*//*----------------*//*МЕТА*//*----------------*//*----------------*/
+table.wdwt_meta {
+  width: 100%;
+}
+
+table.wdwt_meta td {
+  width: 100%;
+}
+
+.wdwt_meta label {
+  margin: 6px;
+  display: block;
+  margin-bottom: 0;
+  margin-top: 12px;
+  font-weight: bold;
+}
+
+.t_mpopular.categores .optioninput:after {
+  content: '';
+  display: block;
+  clear: both;
+}
+
+.wdwt_meta label span {
+  display: inline;
+  font-weight: normal;
+}
+
+.wdwt_meta span {
+  color: #999;
+  display: block;
+}
+
+.wdwt_meta textarea,
+.wdwt_meta input[type='text'] {
+  margin-bottom: 3px;
+}
+
+.wdwt_meta h4 {
+  color: #999;
+  font-size: 1em;
+  margin: 15px 6px;
+  text-transform: uppercase;
+}
+
+.t_blog {
+  display: none;
+}
+
+
+.wdwt_seo_meta {
+  width: 32%;
+  float: left;
+  text-align: center;
+  margin-right: 1%;
+}
+
+.wdwt_seo_meta h4 {
+  margin: 0.33em 0;
+}
+
+.inside .optioninput.checkbox_for_posts {
+  display: block;
+  top: 0px;
+  left: 0px;
+  width: 2%;
+  height: 100%;
+  background: #ededed;
+  text-align: center;
+  margin: 0px 5px 0px 0px;
+}
+
+.inside .optioninput {
+  clear: both;
+  float: left;
+}
+
+
+/*            UPDATES PAGE                */
+
+#main_themes_updates_page .wdwt-add-on {
+  width: 320px;
+  height: 240px;
+  float: left;
+  position: relative;
+  border: 1px solid #cccccc;
+}
+
+#main_themes_updates_page .wdwt-add-on img {
+  width: 100%;
+}
+
+#main_themes_updates_page #add_on_title {
+  color: #007AAF;
+  font-size: 19px;
+}
+
+#main_themes_updates_page #wdwt-settings-content > .main-theme_desc-cont {
+  font-size: 16px;
+}
+
+#main_themes_updates_page .main-theme-info {
+  float: left;
+  width: 480px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+#main_themes_updates_page .update-info {
+  color: #cc0000;
+}
+
+.wdwt_nav-tab-wrapper .update-plugins {
+  display: inline-block;
+  background-color: #d54e21;
+  color: #fff;
+  font-size: 9px;
+  line-height: 17px;
+  font-weight: 600;
+  margin: 1px 0 0 2px;
+  vertical-align: top;
+  -webkit-border-radius: 10px;
+  border-radius: 10px;
+  z-index: 26;
+  padding: 0 6px;
+  float: right;
+  margin-top: 5px;
+}
+/* CUSTOMIZER */
+/********************************************************/
+
+.wp-full-overlay.expanded.in-sub-panel {
+  z-index: 100000;
+}
+
+.upload.image_links_group {
+  margin: 8px;
+}
+
+.accordion-section-content {
+  padding: 0 !important;
+}
+
+.accordion-section-content .sprite_layouts {
+  float: left;
+  margin-left: 10px;
+}
+
+.customize-control {
+  width: 89% !important;
+  margin-bottom: 3%;
+  padding: 0 5%;
+}
+
+.customize-section-description {
+  padding: 0 5%;
+  display: block !important;
+}
+
+#customize-theme-controls .user_manual {
+  padding: 5% 0;
+  width: 90%;
+  clear: both;
+}
+
+/*---*/
+
+#customize-theme-controls .user_manual span:first-child {
+  width: 100%;
+}
+
+#customize-controls .customize-info .customize-help-toggle {
+  top: 15px;
+}
+
+#customize-controls .current-panel .control-section > h3.accordion-section-title {
+  padding-right: 10px;
+}
+
+.customize-section-back {
+  padding: 7px 19px 0 0;
+  width: 60px;
+}
+
+#customize-controls .customize-info.open .customize-panel-description {
+  display: inline-block !important;
+}
+
+#customize-controls .customize-info {
+  background: #fff;
+}
+
+#customize-controls .customize-control-radio input {
+  margin-left: 0;
+}
+
+.customize-control-checkbox label {
+  margin-left: 0;
+}
+
+.customize-control-checkbox input {
+  margin-left: 0;
+}
+
+
+

@@ -1,0 +1,332 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MekaNews v1.0.2\n"
+"POT-Creation-Date: 2017-02-08 15:35+0700\n"
+"PO-Revision-Date: 2017-02-08 15:36+0700\n"
+"Last-Translator: \n"
+"Language-Team: ThemeCountry Dev <dev@themecountry.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr__;esc_attr_e;esc_html__;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:21
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: comments.php:36 comments.php:56
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:37 comments.php:57
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:38 comments.php:58
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:75
+msgid "Leave A Comment"
+msgstr ""
+
+#: comments.php:78
+msgid "Name"
+msgstr ""
+
+#: comments.php:80
+msgid "Email"
+msgstr ""
+
+#: comments.php:82
+msgid "Website"
+msgstr ""
+
+#: comments.php:84
+msgid "Your Comment Here ..."
+msgstr ""
+
+#: footer.php:21
+#, php-format
+msgid ""
+"<a href=\"%s\" rel=\"designer\">&copy;2016 MekaNewsLite  </a> powered by <a "
+"href=\"http://wordpress.org/\">WordPress</a>"
+msgstr ""
+
+#: functions.php:56
+msgid "Top Menu"
+msgstr ""
+
+#: functions.php:57
+msgid "Primary"
+msgstr ""
+
+#: functions.php:58
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:116
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:118 functions.php:128
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:126
+msgid "Header"
+msgstr ""
+
+#: header.php:25
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:53
+msgid "Search ..."
+msgstr ""
+
+#: inc/customizer/customizer.php:32
+msgid "Theme Options"
+msgstr ""
+
+#: inc/customizer/customizer.php:62
+msgid "Theme Links"
+msgstr ""
+
+#: inc/customizer/customizer.php:63
+msgid "https://themecountry.com/mekanews-lite/"
+msgstr ""
+
+#: inc/customizer/customizer.php:64
+msgid "Theme Page"
+msgstr ""
+
+#: inc/customizer/customizer.php:65
+msgid "https://themecountry.com/docs/mekanews-lite/"
+msgstr ""
+
+#: inc/customizer/customizer.php:66
+msgid "Theme Documentation"
+msgstr ""
+
+#: inc/customizer/customizer.php:68
+msgid "Rate this theme"
+msgstr ""
+
+#: inc/customizer/functions/custom-controls.php:61
+msgid "All Categories"
+msgstr ""
+
+#: inc/customizer/functions/custom-controls.php:94
+msgid "Pro Version"
+msgstr ""
+
+#: inc/customizer/functions/custom-controls.php:97
+#, php-format
+msgid ""
+"Purchase the Pro Version of %s to get additional features and advanced "
+"customization options."
+msgstr ""
+
+#: inc/customizer/functions/custom-controls.php:101
+msgid "https://themecountry.com/themes/mekanews"
+msgstr ""
+
+#: inc/customizer/functions/custom-controls.php:102
+#, php-format
+msgid "Learn more about %s Pro"
+msgstr ""
+
+#: inc/customizer/pro/class-customize.php:76
+msgid "MekaNews Pro"
+msgstr ""
+
+#: inc/customizer/pro/class-customize.php:77
+msgid "Go Pro"
+msgstr ""
+
+#: inc/customizer/sections/customizer-general.php:17
+msgid "General Settings"
+msgstr ""
+
+#: inc/customizer/sections/customizer-general.php:32
+msgid "Theme Layout"
+msgstr ""
+
+#: inc/customizer/sections/customizer-general.php:38
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/customizer/sections/customizer-general.php:39
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/customizer/sections/customizer-home-archives.php:20
+msgid "Home & Archive Settings"
+msgstr ""
+
+#: inc/customizer/sections/customizer-home-archives.php:35
+msgid "Post Layout Style"
+msgstr ""
+
+#: inc/customizer/sections/customizer-home-archives.php:41
+msgid " List"
+msgstr ""
+
+#: inc/customizer/sections/customizer-home-archives.php:42
+msgid " Grid"
+msgstr ""
+
+#: inc/customizer/sections/customizer-home-archives.php:65
+msgid "Excerpt Length"
+msgstr ""
+
+#: inc/customizer/sections/customizer-home-archives.php:84
+msgid "Excerpt More Text"
+msgstr ""
+
+#: inc/customizer/sections/customizer-home-archives.php:104
+msgid "Pagination Type"
+msgstr ""
+
+#: inc/customizer/sections/customizer-home-archives.php:110
+msgid " Default (Older Posts/Newer Posts)"
+msgstr ""
+
+#: inc/customizer/sections/customizer-home-archives.php:111
+msgid "Numberal (1 2 3 ..)"
+msgstr ""
+
+#: inc/customizer/sections/customizer-single.php:19
+msgid "Single Post Settings"
+msgstr ""
+
+#: inc/customizer/sections/customizer-single.php:34
+msgid "Related posts"
+msgstr ""
+
+#: inc/customizer/sections/customizer-single.php:40
+msgid "Categories"
+msgstr ""
+
+#: inc/customizer/sections/customizer-single.php:41
+msgid "Tags"
+msgstr ""
+
+#: inc/customizer/sections/customizer-slider.php:17
+msgid "Slider Option"
+msgstr ""
+
+#: inc/customizer/sections/customizer-slider.php:32
+msgid "Feature Slide"
+msgstr ""
+
+#: inc/extras.php:117
+msgid "Related Post"
+msgstr ""
+
+#: inc/template-tags.php:140 inc/template-tags.php:146
+#: inc/template-tags.php:180
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:142 inc/template-tags.php:182
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: inc/template-tags.php:148
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/template-tags.php:156
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: inc/template-tags.php:163 template-parts/content-page.php:33
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: inc/template-tags.php:245
+msgid "<i class=\"fa fa-angle-left\"></i>"
+msgstr ""
+
+#: inc/template-tags.php:246
+msgid "<i class=\"fa fa-angle-right\"></i>"
+msgstr ""
+
+#: inc/template-tags.php:247
+msgid "Page"
+msgstr ""
+
+#: inc/template-tags.php:252
+msgid "<i class=\"fa fa-angle-left\"></i> Previous"
+msgstr ""
+
+#: inc/template-tags.php:253
+msgid "Next <span class=\"meta-nav\"><i class=\"fa fa-angle-right\"></i>"
+msgstr ""
+
+#: index.php:23
+msgid "Latest Post"
+msgstr ""
+
+#: search.php:19
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: template-parts/content-grid.php:42 template-parts/content-page.php:22
+#: template-parts/content-search.php:43 template-parts/content-single.php:40
+#: template-parts/content.php:43
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:21
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:25
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:31
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-single.php:35
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: template-parts/content.php:48
+msgid "Read more"
+msgstr ""

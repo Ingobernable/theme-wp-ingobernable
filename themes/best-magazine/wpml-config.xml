@@ -1,0 +1,14 @@
+<wpml-config>
+  <admin-texts>
+    <key name="theme_best_magazine_options">
+      <key name="seo_home_titletext" />
+      <key name="seo_home_descriptiontext" />
+      <key name="seo_home_keywordstext" />
+      <key name="footer_text" />
+      <key name="mode_text" />
+      <key name="top_post_cat_name" />
+      <key name="video_post_name" />
+      <key name="content_post_cat_name" />
+    </key>
+  </admin-texts>
+</wpml-config>
